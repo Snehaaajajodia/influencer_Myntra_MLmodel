@@ -1,0 +1,937 @@
+[2024-07-13 22:47:54,198: INFO: 4001003418: loaded the data successfully]
+[2024-07-14 01:57:04,557: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:22:12,079: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:22:12,079: INFO: main: Stage Data loading finished]
+[2024-07-14 23:23:19,884: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:23:19,885: INFO: main: Stage Data loading finished]
+[2024-07-14 23:23:19,899: INFO: main: Stage Data Preprocessing finished]
+[2024-07-14 23:26:06,330: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:26:06,342: INFO: main: Stage Data loading finished]
+[2024-07-14 23:26:06,356: INFO: main: Stage Data Preprocessing finished]
+[2024-07-14 23:49:14,307: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:49:14,307: INFO: main: Stage Data loading finished]
+[2024-07-14 23:49:14,318: INFO: main: Stage Data Preprocessing finished]
+[2024-07-14 23:49:14,811: INFO: main: Stage Data Preprocessing finished]
+[2024-07-14 23:53:28,109: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:53:28,109: INFO: main: Stage Data loading finished]
+[2024-07-14 23:53:28,122: INFO: main: Stage Data Preprocessing finished]
+[2024-07-14 23:56:08,250: INFO: data_loading: loaded the data successfully]
+[2024-07-14 23:56:08,252: INFO: main: Stage Data loading finished]
+[2024-07-14 23:56:08,270: INFO: main: Stage Data Preprocessing finished]
+[2024-07-14 23:56:08,902: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:18:19,996: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:18:19,996: INFO: main: Stage Data loading finished]
+[2024-07-15 00:18:20,007: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:18:20,936: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:23:18,019: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:23:18,019: INFO: main: Stage Data loading finished]
+[2024-07-15 00:23:18,034: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:23:18,597: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:24:25,656: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:24:25,657: INFO: main: Stage Data loading finished]
+[2024-07-15 00:24:25,667: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:24:26,166: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:24:33,583: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:24:33,583: INFO: main: Stage Data loading finished]
+[2024-07-15 00:24:33,597: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:24:34,057: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:25:00,479: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:25:00,479: INFO: main: Stage Data loading finished]
+[2024-07-15 00:25:00,493: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:25:00,978: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:27:37,365: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:27:37,366: INFO: main: Stage Data loading finished]
+[2024-07-15 00:27:37,376: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:27:37,819: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:30:47,601: INFO: data_loading: loaded the data successfully]
+[2024-07-15 00:30:47,602: INFO: main: Stage Data loading finished]
+[2024-07-15 00:30:47,612: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 00:30:48,043: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 01:31:36,338: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 01:31:36,339: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 01:31:36,341: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:31:37,376: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:31:37,389: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:31:42,422: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:31:42] "[33mGET / HTTP/1.1[0m" 404 -]
+[2024-07-15 01:31:42,499: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:31:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-07-15 01:31:59,818: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:31:59] "[33mGET / HTTP/1.1[0m" 404 -]
+[2024-07-15 01:45:00,230: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 01:45:00,503: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:45:02,975: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:45:02,975: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:45:10,137: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 01:45:10,143: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 01:45:10,143: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:45:12,482: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:45:12,482: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:45:16,348: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:45:16] "GET / HTTP/1.1" 200 -]
+[2024-07-15 01:47:58,976: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 01:47:59,398: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:48:02,359: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:48:02,370: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:49:34,745: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 01:49:34,745: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 01:49:34,745: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:49:36,714: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:49:36,715: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:49:51,285: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:49:51] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 01:51:49,955: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 01:51:49,955: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 01:51:49,955: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:51:51,642: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:51:51,653: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:51:55,801: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:51:55] "GET / HTTP/1.1" 200 -]
+[2024-07-15 01:52:08,239: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 01:52:08] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 01:55:42,361: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 01:55:42,530: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:55:43,703: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:55:43,703: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 01:59:02,195: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 01:59:02,195: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 01:59:02,196: INFO: _internal:  * Restarting with stat]
+[2024-07-15 01:59:03,547: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 01:59:03,549: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:00:00,928: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 02:00:00] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 02:04:03,560: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 02:04:03,850: INFO: _internal:  * Restarting with stat]
+[2024-07-15 02:04:05,436: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 02:04:05,439: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:04:32,680: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 02:04:32,680: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 02:04:32,681: INFO: _internal:  * Restarting with stat]
+[2024-07-15 02:04:34,130: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 02:04:34,133: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:04:40,478: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 02:04:40] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 02:06:16,924: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 02:06:17,134: INFO: _internal:  * Restarting with stat]
+[2024-07-15 02:06:18,497: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 02:06:18,499: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:06:28,418: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 02:06:28,636: INFO: _internal:  * Restarting with stat]
+[2024-07-15 02:06:30,154: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 02:06:30,156: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:06:41,173: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 02:06:41,432: INFO: _internal:  * Restarting with stat]
+[2024-07-15 02:06:43,129: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 02:06:43,131: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:06:47,616: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 02:06:47,844: INFO: _internal:  * Restarting with stat]
+[2024-07-15 02:06:49,297: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 02:06:49,300: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 02:07:15,327: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 02:07:15] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:04:16,910: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\influencer_score\\pipeline\\prediction.py', reloading]
+[2024-07-15 03:04:17,299: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:04:20,777: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:04:20,785: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:04:43,292: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:04:43,485: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:04:45,938: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:04:45,938: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:04:50,002: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:04:50] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:06:13,052: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:06:13,463: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:06:16,944: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:06:16,947: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:06:31,098: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:06:31,330: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:06:33,628: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:06:33,628: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:06:34,192: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:06:34] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:07:09,392: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:07:09] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:07:29,410: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:07:29,700: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:07:32,107: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:07:32,107: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:07:32,940: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:07:32] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:08:55,390: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\influencer_score\\pipeline\\prediction.py', reloading]
+[2024-07-15 03:08:55,781: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:08:57,875: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:08:57,875: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:09:14,505: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:09:14,727: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:09:17,015: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:09:17,015: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:09:22,828: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:09:22] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:11:10,138: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:11:10,556: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:11:13,701: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:11:13,701: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:12:10,687: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\influencer_score\\pipeline\\prediction.py', reloading]
+[2024-07-15 03:12:10,937: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:12:13,012: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:12:13,012: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:12:22,037: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:12:22] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:18:14,582: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:18:14] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:18:35,303: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:18:35,686: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:18:38,087: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:18:38,103: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:18:38,608: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:18:38] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:18:46,290: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:18:46,558: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:18:48,326: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:18:48,342: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:18:58,099: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:18:58] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:19:24,661: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 03:19:24,661: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 03:19:24,675: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:19:27,405: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:19:27,405: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:19:39,505: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:19:39] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 03:21:07,451: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\temp.py', reloading]
+[2024-07-15 03:21:07,801: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:21:11,537: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:21:11,547: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:22:12,212: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\temp.py', reloading]
+[2024-07-15 03:22:12,428: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:22:14,909: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:22:14,909: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:25:31,641: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\influencer_score\\pipeline\\prediction.py', reloading]
+[2024-07-15 03:25:31,828: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:25:34,005: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:25:34,007: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:27:02,235: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:27:02,427: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:27:04,457: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:27:04,457: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:27:14,188: INFO: main: Stage Prediction finished]
+[2024-07-15 03:27:14,188: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:27:14] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 03:28:32,164: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\test_prediction.py', reloading]
+[2024-07-15 03:28:32,459: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:28:35,555: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:28:35,571: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:28:37,972: INFO: main: Stage Prediction finished]
+[2024-07-15 03:28:37,972: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:28:37] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 03:38:36,938: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\influencer_score\\pipeline\\prediction.py', reloading]
+[2024-07-15 03:38:37,204: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:38:41,771: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:38:41,771: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:38:42,130: INFO: main: Stage Prediction finished]
+[2024-07-15 03:38:42,130: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 03:38:42] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 03:38:47,194: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\influencer_score\\pipeline\\prediction.py', reloading]
+[2024-07-15 03:38:47,374: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:38:48,411: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:38:48,411: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 03:40:14,502: INFO: _internal:  * Detected change in 'C:\\Users\\denni\\Desktop\\influencer recommender\\main.py', reloading]
+[2024-07-15 03:40:14,618: INFO: _internal:  * Restarting with stat]
+[2024-07-15 03:40:15,649: WARNING: _internal:  * Debugger is active!]
+[2024-07-15 03:40:15,649: INFO: _internal:  * Debugger PIN: 887-646-970]
+[2024-07-15 13:11:52,338: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 13:11:52,339: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 13:14:48,874: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 13:14:48,875: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 13:19:45,090: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:19:45] "[31m[1mGET /predict_score HTTP/1.1[0m" 405 -]
+[2024-07-15 13:20:13,680: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 15, in prediction
+    df = df[feature_order]
+         ~~^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'list'
+[2024-07-15 13:20:13,687: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:20:13] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 13:20:18,977: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 15, in prediction
+    df = df[feature_order]
+         ~~^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'list'
+[2024-07-15 13:20:18,980: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:20:18] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 13:28:45,945: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 15, in prediction
+    df = df[feature_order]
+         ~~^^^^^^^^^^^^^^^
+TypeError: unhashable type: 'list'
+[2024-07-15 13:28:45,947: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:28:45] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 13:57:21,492: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 13:57:21,493: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 13:57:27,237: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 20, in prediction
+    model.load_model(os.path.normpath(r'C:\Users\denni\Desktop\influencer recommender\model\model.xgb'))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 915, in load_model
+    self.get_booster().load_model(fname)
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 2693, in load_model
+    _check_call(_LIB.XGBoosterLoadModel(self.handle, c_str(fname)))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 284, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [13:57:27] C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-06abd128ca6c1688d-1\xgboost\xgboost-ci-windows\dmlc-core\src\io\local_filesys.cc:210: Check failed: allow_null:  LocalFileSystem::Open "C:\Users\denni\Desktop\influencer recommender\model\model.xgb": No such file or directory
+[2024-07-15 13:57:27,250: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:57:27] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 13:59:25,418: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 13:59:25,418: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 13:59:27,778: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 20, in prediction
+    model.load_model(os.path.normpath(r'..\..\model\model.xgb'))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 915, in load_model
+    self.get_booster().load_model(fname)
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 2693, in load_model
+    _check_call(_LIB.XGBoosterLoadModel(self.handle, c_str(fname)))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 284, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [13:59:27] C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-06abd128ca6c1688d-1\xgboost\xgboost-ci-windows\dmlc-core\src\io\local_filesys.cc:210: Check failed: allow_null:  LocalFileSystem::Open "..\..\model\model.xgb": No such file or directory
+[2024-07-15 13:59:27,794: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:59:27] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 13:59:54,890: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 20, in prediction
+    model.load_model(os.path.normpath(r'..\model\model.xgb'))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 915, in load_model
+    self.get_booster().load_model(fname)
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 2693, in load_model
+    _check_call(_LIB.XGBoosterLoadModel(self.handle, c_str(fname)))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 284, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [13:59:54] C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-06abd128ca6c1688d-1\xgboost\xgboost-ci-windows\dmlc-core\src\io\local_filesys.cc:210: Check failed: allow_null:  LocalFileSystem::Open "..\..\model\model.xgb": No such file or directory
+[2024-07-15 13:59:54,898: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 13:59:54] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 14:00:06,422: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:00:06,423: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 14:00:11,822: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 20, in prediction
+    model.load_model(os.path.normpath(r'..\model\model.xgb'))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 915, in load_model
+    self.get_booster().load_model(fname)
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 2693, in load_model
+    _check_call(_LIB.XGBoosterLoadModel(self.handle, c_str(fname)))
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 284, in _check_call
+    raise XGBoostError(py_str(_LIB.XGBGetLastError()))
+xgboost.core.XGBoostError: [14:00:11] C:\buildkite-agent\builds\buildkite-windows-cpu-autoscaling-group-i-06abd128ca6c1688d-1\xgboost\xgboost-ci-windows\dmlc-core\src\io\local_filesys.cc:210: Check failed: allow_null:  LocalFileSystem::Open "..\model\model.xgb": No such file or directory
+[2024-07-15 14:00:11,834: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:00:11] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 14:00:41,804: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:00:41,805: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 14:00:46,179: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 22, in prediction
+    y_pred=model.predict(df.drop(columns=['influencer_id','score']))
+                         ^^^^^^^
+AttributeError: 'dict' object has no attribute 'drop'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 24, in prediction
+    y_pred=model.predict(df)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 1203, in predict
+    test = DMatrix(
+           ^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 726, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 878, in __init__
+    handle, feature_names, feature_types = dispatch_data_backend(
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\data.py", line 1267, in dispatch_data_backend
+    raise TypeError("Not supported type for data." + str(type(data)))
+TypeError: Not supported type for data.<class 'dict'>
+[2024-07-15 14:00:46,191: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:00:46] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 14:01:51,912: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:01:51,913: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 14:01:57,657: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 22, in prediction
+    y_pred=model.predict(df.drop(columns=['influencer_id','score']))
+                         ^^^^^^^
+AttributeError: 'dict' object has no attribute 'drop'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 42, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 24, in prediction
+    y_pred=model.predict(df)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 1203, in predict
+    test = DMatrix(
+           ^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 726, in inner_f
+    return func(**kwargs)
+           ^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 878, in __init__
+    handle, feature_names, feature_types = dispatch_data_backend(
+                                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\data.py", line 1267, in dispatch_data_backend
+    raise TypeError("Not supported type for data." + str(type(data)))
+TypeError: Not supported type for data.<class 'dict'>
+[2024-07-15 14:01:57,672: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:01:57] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 14:13:22,877: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:13:22,878: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 14:13:28,680: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 22, in prediction
+    y_pred=model.predict(df.drop(columns=['influencer_id','score']))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+           ^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['influencer_id', 'score'] not found in axis"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 25, in predict
+    result = Prediction(data)
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 50, in Prediction
+    y_pred=pred.prediction(df)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\prediction.py", line 24, in prediction
+    y_pred=model.predict(df)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\sklearn.py", line 1186, in predict
+    predts = self.get_booster().inplace_predict(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\core.py", line 2508, in inplace_predict
+    data, fns, _ = _transform_pandas_df(data, enable_categorical)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\data.py", line 603, in _transform_pandas_df
+    pandas_check_dtypes(data, enable_categorical)
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\data.py", line 569, in pandas_check_dtypes
+    _invalid_dataframe_dtype(data)
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\xgboost\data.py", line 356, in _invalid_dataframe_dtype
+    raise ValueError(msg)
+ValueError: DataFrame.dtypes for data must be int, float, bool or category. When categorical type is supplied, the experimental DMatrix parameter`enable_categorical` must be set to `True`.  Invalid columns:name: object, email: object, phoneNumber: object, productCategory: object, platform: object, username: object, audienceType: object, audienceGender: object, achievements: object, bio: object, photo: object, state: object, city: object
+[2024-07-15 14:13:28,709: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:13:28] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 14:31:07,446: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:31:07,447: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 14:31:12,487: INFO: main: Stage Prediction finished]
+[2024-07-15 14:31:12,488: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:31:12] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 14:31:46,445: INFO: main: Stage Prediction finished]
+[2024-07-15 14:31:46,446: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:31:46] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 14:32:07,176: INFO: main: Stage Prediction finished]
+[2024-07-15 14:32:07,177: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:32:07] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 14:32:22,277: INFO: main: Stage Prediction finished]
+[2024-07-15 14:32:22,278: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:32:22] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 14:34:03,662: INFO: data_loading: loaded the data successfully]
+[2024-07-15 14:34:03,662: INFO: main: Stage Data loading finished]
+[2024-07-15 14:34:03,694: INFO: main: Stage Data Preprocessing finished]
+[2024-07-15 14:34:04,079: ERROR: app: Exception on /train_model [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 15, in train
+    model, mse, r2 = model_trainer(df)
+                     ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 33, in model_trainer
+    model,mse,r2=train.trainer(df,xgb)
+                 ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\influencer_score\pipeline\model_training.py", line 38, in trainer
+    os.makedirs(output_dir, exist_ok=True)
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 215, in makedirs
+  File "<frozen os>", line 225, in makedirs
+PermissionError: [WinError 5] Access is denied: 'C:\\Users\\denni'
+[2024-07-15 14:34:04,088: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:34:04] "[35m[1mPOST /train_model HTTP/1.1[0m" 500 -]
+[2024-07-15 14:34:14,892: INFO: main: Stage Prediction finished]
+[2024-07-15 14:34:14,892: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:34:14] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 14:34:43,363: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:34:43,363: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 14:35:16,697: INFO: main: Stage Prediction finished]
+[2024-07-15 14:35:16,698: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 14:35:16] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 14:45:40,543: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 14:45:40,543: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 15:53:48,602: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 15:53:48,603: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 15:55:07,183: INFO: main: Stage Prediction finished]
+[2024-07-15 15:55:07,184: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 27, in predict
+    return stringify(result)
+           ^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable. Did you mean: 'stringify.stringify(...)'?
+[2024-07-15 15:55:07,189: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:55:07] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 15:55:36,327: INFO: main: Stage Prediction finished]
+[2024-07-15 15:55:36,327: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 27, in predict
+    return stringify(result)
+           ^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable. Did you mean: 'stringify.stringify(...)'?
+[2024-07-15 15:55:36,338: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:55:36] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 15:55:48,428: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 15:55:48,428: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 15:56:14,369: INFO: main: Stage Prediction finished]
+[2024-07-15 15:56:14,370: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 27, in predict
+TypeError: 'module' object is not callable. Did you mean: 'stringify.stringify(...)'?
+[2024-07-15 15:56:14,382: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:56:14] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 15:56:24,333: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 15:56:24,334: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 15:56:28,724: INFO: main: Stage Prediction finished]
+[2024-07-15 15:56:28,724: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:56:28] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 15:56:44,947: INFO: main: Stage Prediction finished]
+[2024-07-15 15:56:44,948: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:56:44] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 15:56:49,232: INFO: main: Stage Prediction finished]
+[2024-07-15 15:56:49,233: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:56:49] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 15:57:35,557: INFO: main: Stage Prediction finished]
+[2024-07-15 15:57:35,557: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:57:35] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 15:58:29,990: INFO: main: Stage Prediction finished]
+[2024-07-15 15:58:29,990: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:58:29] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 15:59:17,397: INFO: main: Stage Prediction finished]
+[2024-07-15 15:59:17,397: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:59:17] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 15:59:24,247: INFO: main: Stage Prediction finished]
+[2024-07-15 15:59:24,248: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 15:59:24] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 16:01:09,596: INFO: main: Stage Prediction finished]
+[2024-07-15 16:01:09,596: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:01:09] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 16:01:23,449: INFO: main: Stage Prediction finished]
+[2024-07-15 16:01:23,450: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:01:23] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 16:06:07,700: INFO: main: Stage Prediction finished]
+[2024-07-15 16:06:07,702: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:06:07] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 16:07:17,048: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 16:07:17,049: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 16:07:45,532: INFO: main: Stage Prediction finished]
+[2024-07-15 16:07:45,532: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:07:45] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 16:17:22,913: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:17:22] "[31m[1mPOST /predict_score HTTP/1.1[0m" 415 -]
+[2024-07-15 16:20:01,925: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 16:20:01,926: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 16:20:07,710: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:20:07] "[31m[1mPOST /predict_score HTTP/1.1[0m" 415 -]
+[2024-07-15 16:23:31,552: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:23:31] "[31m[1mPOST /predict_score HTTP/1.1[0m" 415 -]
+[2024-07-15 16:24:42,480: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:24:42] "[31m[1mPOST /predict_score HTTP/1.1[0m" 415 -]
+[2024-07-15 16:32:20,212: INFO: main: Stage Prediction finished]
+[2024-07-15 16:32:20,213: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:32:20] "POST /predict_score HTTP/1.1" 200 -]
+[2024-07-15 16:44:01,901: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 16:44:01,902: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 16:44:08,192: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 16:44:08] "[31m[1mPOST /predict_score HTTP/1.1[0m" 415 -]
+[2024-07-15 17:02:54,717: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 17:02:54] "[33mPOST /dataUpload HTTP/1.1[0m" 404 -]
+[2024-07-15 17:03:48,015: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 17:03:48] "[33mPOST /dataUpload HTTP/1.1[0m" 404 -]
+[2024-07-15 17:05:58,680: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 17:05:58] "[33mPOST /dataUpload HTTP/1.1[0m" 404 -]
+[2024-07-15 21:09:56,114: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 21:09:56,115: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 21:17:57,297: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 21:17:57,297: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 21:24:49,794: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 26, in predict
+    df = pd.DataFrame(data)  # Convert JSON to DataFrame
+         ^^
+NameError: name 'pd' is not defined
+[2024-07-15 21:24:49,807: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 21:24:49] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 21:26:12,425: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 21:26:12,425: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 21:26:18,889: INFO: main: Stage Prediction finished]
+[2024-07-15 21:26:18,890: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 29, in predict
+    return jsonify(result)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ndarray is not JSON serializable
+[2024-07-15 21:26:18,915: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 21:26:18] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 21:51:34,786: INFO: main: Stage Prediction finished]
+[2024-07-15 21:51:34,787: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 29, in predict
+    return jsonify(result)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ndarray is not JSON serializable
+[2024-07-15 21:51:34,792: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 21:51:34] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 22:07:34,176: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 22:07:34,176: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 22:07:34,401: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 22:07:34] "[31m[1mPOST /predict_score HTTP/1.1[0m" 415 -]
+[2024-07-15 22:07:42,611: INFO: main: Stage Prediction finished]
+[2024-07-15 22:07:42,612: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 29, in predict
+    return jsonify(result)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\__init__.py", line 170, in jsonify
+    return current_app.json.response(*args, **kwargs)  # type: ignore[return-value]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 214, in response
+    f"{self.dumps(obj, **dump_args)}\n", mimetype=self.mimetype
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 179, in dumps
+    return json.dumps(obj, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 238, in dumps
+    **kw).encode(obj)
+          ^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 200, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\json\encoder.py", line 258, in iterencode
+    return _iterencode(o, 0)
+           ^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\json\provider.py", line 121, in _default
+    raise TypeError(f"Object of type {type(o).__name__} is not JSON serializable")
+TypeError: Object of type ndarray is not JSON serializable
+[2024-07-15 22:07:42,618: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 22:07:42] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]
+[2024-07-15 22:17:22,267: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000]
+[2024-07-15 22:17:22,268: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2024-07-15 22:17:32,979: ERROR: app: Exception on /predict_score [POST]]
+Traceback (most recent call last):
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\app\routes.py", line 28, in predict
+    result = Prediction(df)
+             ^^^^^^^^^^^^^^
+  File "C:\Users\aryan\openSource\Model-backend\final\main.py", line 49, in Prediction
+    df = pd.DataFrame([df])
+         ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 867, in __init__
+    mgr = ndarray_to_mgr(
+          ^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\internals\construction.py", line 319, in ndarray_to_mgr
+    values = _prep_ndarraylike(values, copy=copy_on_sanitize)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\internals\construction.py", line 582, in _prep_ndarraylike
+    return _ensure_2d(values)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\aryan\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\internals\construction.py", line 592, in _ensure_2d
+    raise ValueError(f"Must pass 2-d input. shape={values.shape}")
+ValueError: Must pass 2-d input. shape=(1, 3, 27)
+[2024-07-15 22:17:32,988: INFO: _internal: 127.0.0.1 - - [15/Jul/2024 22:17:32] "[35m[1mPOST /predict_score HTTP/1.1[0m" 500 -]

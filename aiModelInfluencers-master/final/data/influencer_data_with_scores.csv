@@ -1,0 +1,1001 @@
+influencer_id,Number of subscribers,followers,average_likes,average_comments,average_shares,primary_platform,Targeted_audience_age,Targetaudience_gender,past_campaign_success,product_category,budget_per_video,engagement_rate,follower_growth_rate,pat_campaign_success_rate,Geographical location: state of India,campaign duration,score
+1,105142,391772,21984,7208,3155,Facebook,25 to 35,Others,4.1,Accessories,109502,3.8,6.2,2.2,Sikkim,3 months,3.4
+2,862142,142983,41491,4741,1587,Instagram,5 to 15,Others,2.1,Clothing,89273,6.0,5.7,7.3,Gujarat,1 year,4.8
+3,592238,115478,4553,9401,458,YouTube,5 to 15,Male,4.9,Cosmetics,54846,4.3,1.7,4.9,Rajasthan,3 months,3.2
+4,845945,275433,16808,1124,311,Instagram,25 to 35,Female,2.6,Clothing,127661,9.8,10.0,2.5,Gujarat,2 years,5.1
+5,833454,88199,9059,371,971,Instagram,35 to 45,Female,6.9,Clothing,86639,4.7,2.8,3.4,Rajasthan,6 months,3.8
+6,57417,271670,30390,9967,3941,Instagram,5 to 15,Female,7.2,Accessories,106283,5.4,4.9,3.3,Rajasthan,6 months,4.4
+7,367733,283138,21089,7791,2605,Instagram,5 to 15,Male,8.7,Cosmetics,104428,1.3,8.3,5.5,Tamil Nadu,2 years,4.9
+8,298090,291737,18380,257,4050,Facebook,35 to 45,Others,6.6,Accessories,125871,2.7,1.2,8.3,Rajasthan,1 month,3.9
+9,238903,181175,41973,4737,4285,YouTube,25 to 35,Female,4.0,Cosmetics,133834,8.6,1.9,9.5,Gujarat,1 month,5.3
+10,975657,180684,17713,6881,3135,Instagram,35 to 45,Others,1.3,Clothing,60382,6.7,3.0,8.0,Rajasthan,2 years,4.0
+11,336092,454613,25406,5922,1063,Instagram,5 to 15,Male,1.6,Clothing,121528,8.3,6.0,9.9,Rajasthan,6 months,5.3
+12,837872,155017,30227,2689,695,Instagram,5 to 15,Others,8.5,Accessories,142483,7.7,3.8,9.6,Maharashtra,3 months,6.3
+13,363386,450335,43574,6964,4550,Facebook,35 to 45,Others,2.5,Cosmetics,60398,2.2,8.8,9.4,Maharashtra,1 year,4.8
+14,343493,12426,4993,822,1362,YouTube,15 to 25,Female,9.3,Accessories,92060,8.6,4.7,7.7,Kerala,3 months,6.9
+15,631108,350544,49743,4835,4678,Facebook,25 to 35,Female,3.9,Cosmetics,121725,7.2,4.9,5.8,Punjab,1 year,4.6
+16,868788,32589,17185,2603,1102,Facebook,15 to 25,Female,5.1,Cosmetics,50366,2.9,9.0,6.3,Sikkim,3 months,5.7
+17,516997,105977,36731,7823,1778,Instagram,25 to 35,Others,6.5,Cosmetics,64687,5.2,8.6,5.8,Kerala,3 months,5.9
+18,406488,291347,8869,2509,2043,YouTube,35 to 45,Others,9.9,Clothing,69285,2.2,3.9,6.6,Kerala,1 year,4.6
+19,731548,355601,41865,1302,1784,YouTube,25 to 35,Male,4.4,Cosmetics,81180,3.4,4.3,8.4,Gujarat,1 year,4.3
+20,471970,330040,36926,6433,4103,Facebook,35 to 45,Male,3.3,Cosmetics,131309,1.1,8.8,3.7,Sikkim,6 months,3.6
+21,416768,10648,44010,1661,3051,Facebook,25 to 35,Male,3.6,Cosmetics,114776,3.7,5.2,5.0,Sikkim,6 months,11.8
+22,857932,162303,8135,2077,1247,Facebook,5 to 15,Male,4.4,Cosmetics,75453,9.2,4.1,6.4,Tamil Nadu,2 months,4.9
+23,773535,303116,47534,859,2744,Facebook,15 to 25,Others,2.1,Cosmetics,146404,8.3,2.1,3.0,Kerala,1 month,3.4
+24,667579,345690,36804,4861,415,Facebook,5 to 15,Male,5.5,Accessories,65380,1.1,5.0,4.0,Kerala,2 months,3.3
+25,395211,422984,45783,3378,4001,Facebook,35 to 45,Male,5.6,Clothing,68246,5.9,9.9,1.9,Punjab,3 months,4.9
+26,165731,442781,8959,4413,172,Facebook,5 to 15,Female,2.4,Cosmetics,106711,3.0,3.2,5.8,Maharashtra,2 months,2.9
+27,519514,464428,29020,5345,2820,Instagram,5 to 15,Female,7.3,Cosmetics,144059,5.7,4.7,2.2,Rajasthan,1 month,4.1
+28,685622,397206,9110,9604,2854,YouTube,25 to 35,Male,8.9,Clothing,148632,1.6,8.4,8.8,Punjab,3 months,5.6
+29,844441,271138,17684,7351,3452,Facebook,25 to 35,Female,1.9,Accessories,136230,5.8,3.3,3.5,Sikkim,2 years,3.0
+30,102373,463119,10356,5715,4096,Facebook,35 to 45,Male,9.8,Cosmetics,132261,6.5,4.0,7.7,Sikkim,1 month,5.6
+31,659565,40422,2443,5737,73,Instagram,35 to 45,Others,3.9,Accessories,126422,6.9,6.8,8.3,Kerala,6 months,5.3
+32,120149,26758,25173,685,2170,Facebook,5 to 15,Others,6.6,Clothing,112000,3.8,9.0,5.9,Tamil Nadu,1 year,6.9
+33,247812,55748,24590,4999,383,YouTube,15 to 25,Female,4.1,Cosmetics,69944,1.2,3.0,4.6,Sikkim,1 year,3.5
+34,565497,450004,27417,1882,694,Instagram,35 to 45,Male,3.4,Clothing,112648,1.2,3.7,1.2,Gujarat,3 months,2.0
+35,468275,256967,46280,9013,1945,Instagram,5 to 15,Others,5.9,Clothing,130386,9.1,7.9,5.5,Gujarat,1 month,6.0
+36,228959,29853,40017,2626,1721,Facebook,35 to 45,Female,4.7,Accessories,112896,8.5,1.6,10.0,Maharashtra,1 year,7.6
+37,236014,57794,39099,3920,4422,YouTube,15 to 25,Others,4.6,Cosmetics,52112,8.4,9.4,1.1,Rajasthan,1 month,6.1
+38,121307,143962,38823,3264,2718,Instagram,15 to 25,Female,7.0,Cosmetics,101929,5.2,6.6,8.8,Maharashtra,1 year,6.1
+39,499914,429761,2055,5296,4023,YouTube,35 to 45,Male,4.7,Clothing,99600,8.0,3.4,1.0,Tamil Nadu,1 month,3.4
+40,586356,383629,45115,839,2989,Instagram,5 to 15,Others,3.0,Clothing,133655,8.8,7.9,9.6,Sikkim,3 months,6.1
+41,808069,227716,20148,836,4212,Instagram,15 to 25,Male,8.3,Accessories,149627,8.0,8.6,9.7,Sikkim,1 year,7.1
+42,890396,346146,38946,226,172,YouTube,15 to 25,Female,5.5,Cosmetics,90379,3.9,6.8,9.6,Maharashtra,3 months,5.4
+43,637133,422645,3986,9778,2338,YouTube,15 to 25,Male,7.8,Accessories,93406,3.3,7.4,4.5,Maharashtra,1 year,4.6
+44,311961,213733,12940,8488,2028,Facebook,25 to 35,Female,6.8,Accessories,84574,4.4,1.9,7.0,Kerala,2 years,4.1
+45,110325,191205,9942,4834,4213,YouTube,25 to 35,Female,3.7,Accessories,106819,2.5,5.2,9.0,Rajasthan,1 year,4.2
+46,127417,232999,36776,647,81,YouTube,15 to 25,Others,1.5,Cosmetics,116584,8.9,9.1,8.0,Kerala,2 months,5.8
+47,490213,396290,24443,3066,4298,Instagram,5 to 15,Others,8.9,Clothing,146283,7.9,6.1,7.5,Sikkim,6 months,6.2
+48,824935,11383,48999,3453,2671,Instagram,15 to 25,Male,3.8,Clothing,88278,6.5,4.9,8.4,Tamil Nadu,1 year,13.3
+49,251364,437633,16810,4788,1267,YouTube,5 to 15,Others,7.2,Accessories,101007,5.6,3.2,5.5,Sikkim,2 months,4.4
+50,521368,135156,3900,8142,271,Facebook,25 to 35,Female,7.2,Cosmetics,142664,8.0,4.6,1.5,Punjab,1 month,4.3
+51,742901,394372,33819,1802,1822,Instagram,15 to 25,Others,3.1,Accessories,111182,1.7,4.4,6.8,Punjab,6 months,3.4
+52,739172,99704,29193,1937,3581,YouTube,25 to 35,Male,2.8,Clothing,52000,5.7,7.9,2.6,Punjab,1 month,4.4
+53,175655,404282,8707,6347,2668,Instagram,25 to 35,Male,2.2,Clothing,148306,1.5,7.9,3.3,Sikkim,3 months,3.0
+54,341584,267443,20542,2844,4961,Facebook,15 to 25,Male,9.8,Clothing,58941,5.3,7.0,8.0,Rajasthan,2 months,6.2
+55,290144,391087,13215,5695,4445,Instagram,25 to 35,Others,3.7,Cosmetics,140867,4.4,3.6,4.3,Punjab,3 months,3.3
+56,593199,181648,26289,2636,1798,Facebook,25 to 35,Female,3.1,Cosmetics,135594,1.1,3.3,7.1,Gujarat,1 year,3.2
+57,158972,450919,16568,4161,1955,Facebook,15 to 25,Others,9.7,Accessories,139170,4.7,3.1,7.9,Tamil Nadu,3 months,5.2
+58,890485,52599,43217,3991,1095,Facebook,25 to 35,Others,1.4,Cosmetics,58029,7.4,7.7,3.9,Gujarat,6 months,5.7
+59,813031,235489,20650,5419,4395,YouTube,15 to 25,Female,8.3,Accessories,101425,8.5,8.6,6.0,Maharashtra,1 month,6.5
+60,691267,295045,47610,1120,1275,YouTube,25 to 35,Male,7.9,Accessories,93405,3.4,4.5,6.3,Sikkim,6 months,4.7
+61,914249,189929,30011,2530,4809,Facebook,5 to 15,Male,3.0,Clothing,96797,3.8,3.0,8.5,Punjab,2 years,4.0
+62,212008,349184,39686,8272,4633,Facebook,5 to 15,Male,2.3,Accessories,97711,5.6,7.3,9.1,Tamil Nadu,2 months,5.1
+63,678551,470478,37730,180,2661,Facebook,35 to 45,Male,3.1,Clothing,118442,7.2,9.4,1.5,Tamil Nadu,2 years,4.4
+64,973634,380347,12001,9304,4235,Facebook,15 to 25,Others,2.6,Clothing,68086,4.2,7.7,8.0,Rajasthan,2 years,4.6
+65,142780,205124,33492,9066,4671,Instagram,5 to 15,Female,9.4,Accessories,89690,6.6,1.4,2.9,Punjab,2 years,4.4
+66,795869,420453,26273,5664,1845,YouTube,25 to 35,Female,4.5,Clothing,134808,9.4,6.6,3.9,Rajasthan,3 months,5.0
+67,622093,470385,46539,3282,2722,Facebook,35 to 45,Male,4.6,Accessories,61959,9.4,6.9,1.1,Rajasthan,1 month,4.6
+68,327428,486364,21919,4908,1731,Facebook,5 to 15,Female,7.3,Accessories,148649,6.6,9.7,7.3,Sikkim,1 year,6.3
+69,778831,243874,47460,8062,194,Facebook,35 to 45,Male,6.1,Cosmetics,131109,4.2,1.6,9.6,Tamil Nadu,6 months,4.7
+70,221078,432659,7154,7773,3844,YouTube,5 to 15,Male,2.9,Accessories,50580,3.7,1.4,6.1,Rajasthan,2 years,2.9
+71,67615,324547,35574,9555,167,YouTube,25 to 35,Others,3.1,Cosmetics,53059,4.2,8.4,9.2,Maharashtra,2 months,5.2
+72,344722,404311,46161,8467,2309,Instagram,35 to 45,Female,5.8,Accessories,119574,6.0,5.2,6.6,Punjab,2 months,4.9
+73,797234,332512,26944,6913,4590,YouTube,5 to 15,Female,4.7,Cosmetics,115312,1.2,5.6,4.0,Rajasthan,3 months,3.3
+74,280019,232643,44150,7305,1603,Facebook,15 to 25,Others,4.9,Accessories,127668,1.4,7.4,2.5,Sikkim,1 year,3.6
+75,939117,491028,35128,6167,3525,YouTube,25 to 35,Female,2.8,Clothing,56469,9.0,5.2,3.4,Kerala,1 month,4.2
+76,944215,306536,16049,9262,1605,Instagram,5 to 15,Female,1.5,Clothing,139942,4.2,5.0,8.0,Rajasthan,1 year,3.8
+77,467477,96309,23285,436,2027,Instagram,15 to 25,Female,7.5,Cosmetics,76580,7.0,9.6,2.8,Punjab,2 months,5.9
+78,449612,408621,43292,6374,4547,Facebook,35 to 45,Others,9.6,Cosmetics,78832,8.9,2.6,1.4,Maharashtra,1 month,4.7
+79,673273,98984,2316,4773,2631,YouTube,25 to 35,Others,3.2,Clothing,51900,4.9,7.2,4.2,Maharashtra,3 months,3.9
+80,76637,401563,34622,2944,3435,Instagram,15 to 25,Others,7.0,Cosmetics,56317,4.0,8.8,7.1,Tamil Nadu,1 year,5.6
+81,647352,11711,31972,7461,4364,YouTube,35 to 45,Male,9.5,Cosmetics,51024,3.6,6.4,1.8,Maharashtra,3 months,9.7
+82,920981,242086,38229,7444,1659,Facebook,25 to 35,Male,8.9,Cosmetics,100810,1.5,5.4,3.7,Sikkim,2 months,4.2
+83,369945,239772,38598,1623,2237,YouTube,25 to 35,Female,6.2,Cosmetics,134618,2.7,8.5,7.1,Sikkim,2 years,5.2
+84,861060,495313,36294,5397,976,Instagram,25 to 35,Female,7.7,Clothing,98756,8.9,8.0,9.7,Gujarat,1 year,7.0
+85,138212,25063,36847,5812,4798,Instagram,35 to 45,Male,7.9,Accessories,104017,5.5,2.5,8.6,Sikkim,1 year,7.8
+86,996699,411872,48471,1168,3262,Instagram,25 to 35,Others,6.4,Clothing,52978,6.4,8.3,2.8,Punjab,2 years,5.0
+87,377824,226978,49015,593,358,YouTube,35 to 45,Female,3.8,Accessories,74714,6.3,3.3,3.2,Tamil Nadu,1 year,3.8
+88,215303,166783,46932,1672,2290,Instagram,25 to 35,Male,4.9,Clothing,59043,4.2,2.9,9.2,Punjab,1 year,4.8
+89,473946,222899,14952,9237,2163,YouTube,5 to 15,Others,1.5,Clothing,72099,5.7,5.6,4.7,Tamil Nadu,1 month,3.6
+90,110519,80866,4990,5080,2158,Instagram,15 to 25,Male,3.8,Cosmetics,104410,1.8,9.0,6.7,Tamil Nadu,2 years,4.4
+91,501672,236207,28548,4358,1782,Facebook,5 to 15,Male,7.4,Clothing,112836,9.4,4.7,4.6,Punjab,1 year,5.5
+92,803255,482802,30051,6686,4599,Instagram,15 to 25,Female,8.6,Accessories,120503,8.6,4.5,1.5,Sikkim,2 years,4.8
+93,866354,293557,49765,237,3113,Instagram,25 to 35,Others,5.0,Clothing,142815,8.7,4.5,6.2,Kerala,3 months,5.2
+94,198756,415110,4095,4104,3227,Facebook,15 to 25,Female,6.8,Cosmetics,90490,8.2,6.4,2.3,Maharashtra,6 months,4.8
+95,277562,238204,20600,1656,4745,Facebook,35 to 45,Others,8.8,Clothing,75467,8.3,2.2,6.7,Gujarat,1 month,5.4
+96,925744,264425,26967,1294,4626,Instagram,25 to 35,Male,9.1,Cosmetics,60927,5.0,1.4,5.0,Punjab,6 months,4.3
+97,809154,73025,42989,3587,2777,YouTube,25 to 35,Others,5.8,Clothing,148634,3.8,7.4,2.4,Gujarat,6 months,5.1
+98,558366,431617,17636,7004,3899,Facebook,15 to 25,Others,4.9,Clothing,101706,8.1,7.5,9.8,Rajasthan,1 year,6.1
+99,546579,498191,38015,1478,1787,Facebook,15 to 25,Male,8.9,Clothing,62379,1.9,1.4,7.5,Rajasthan,2 months,4.1
+100,839081,443095,11369,7787,3123,Facebook,5 to 15,Others,8.7,Accessories,96354,8.0,6.4,9.2,Punjab,2 years,6.5
+101,756359,25627,43820,9591,4278,Facebook,35 to 45,Female,4.1,Accessories,139140,4.5,6.2,2.1,Gujarat,6 months,6.8
+102,72633,428085,24919,5287,303,Facebook,15 to 25,Female,4.0,Accessories,56276,7.1,3.3,7.8,Kerala,1 month,4.6
+103,743980,347154,25309,7235,835,Instagram,15 to 25,Male,4.5,Cosmetics,61965,9.8,2.8,3.1,Kerala,2 years,4.2
+104,737133,427530,19237,5068,2860,Instagram,5 to 15,Female,7.5,Accessories,147489,5.5,9.4,7.7,Gujarat,1 year,6.1
+105,637470,101878,43662,2943,2191,Facebook,5 to 15,Male,6.7,Cosmetics,114248,2.8,6.1,5.1,Punjab,2 years,5.0
+106,849342,284325,2765,2451,3057,Facebook,5 to 15,Others,3.8,Clothing,140356,4.1,5.9,3.9,Tamil Nadu,1 month,3.6
+107,141105,41353,6764,2272,3740,Facebook,5 to 15,Female,9.2,Accessories,140554,4.2,2.4,6.9,Punjab,1 year,4.9
+108,394304,271704,47310,1308,485,YouTube,5 to 15,Others,8.1,Accessories,95654,5.4,5.6,3.8,Rajasthan,1 year,4.9
+109,401806,296263,7636,380,3537,Facebook,5 to 15,Others,8.7,Cosmetics,72344,2.4,2.3,1.2,Maharashtra,2 years,3.0
+110,298590,88820,2025,1762,3053,Facebook,35 to 45,Female,9.8,Clothing,78216,3.6,8.7,9.8,Punjab,2 months,6.4
+111,707143,471898,42053,8411,2340,YouTube,35 to 45,Male,9.3,Clothing,100325,6.0,8.4,9.6,Punjab,1 month,6.8
+112,152006,49847,40904,1740,3903,Facebook,25 to 35,Others,4.0,Clothing,132615,3.2,5.8,2.7,Gujarat,6 months,4.8
+113,337314,301682,38240,5701,3526,YouTube,5 to 15,Others,4.4,Clothing,119772,6.5,9.2,7.8,Kerala,2 years,5.8
+114,88268,43916,40924,2319,278,Facebook,5 to 15,Female,7.6,Accessories,78013,8.5,8.6,7.2,Tamil Nadu,3 months,8.2
+115,637018,355538,18771,6152,1730,Facebook,5 to 15,Male,6.6,Cosmetics,57858,6.9,9.5,8.9,Maharashtra,1 year,6.5
+116,485209,268790,8935,6435,4920,Facebook,15 to 25,Male,2.4,Clothing,122353,2.6,7.3,3.7,Gujarat,2 months,3.3
+117,375731,398317,38324,1892,358,Facebook,35 to 45,Others,7.1,Clothing,103313,3.3,8.4,7.0,Kerala,3 months,5.4
+118,714596,466209,23951,3533,3198,Instagram,5 to 15,Female,1.3,Cosmetics,89677,2.9,7.5,8.1,Tamil Nadu,2 months,4.1
+119,932195,141075,35687,3093,2338,Instagram,15 to 25,Female,7.5,Cosmetics,149522,3.4,7.8,5.8,Gujarat,2 months,5.4
+120,385384,21036,2457,1812,2216,YouTube,25 to 35,Male,3.1,Accessories,73691,1.2,4.1,6.9,Tamil Nadu,1 month,3.3
+121,406487,253024,3046,7263,97,Instagram,35 to 45,Female,7.7,Cosmetics,56726,2.6,5.8,7.6,Gujarat,3 months,4.8
+122,974298,147753,39000,4634,1960,Instagram,25 to 35,Male,6.2,Accessories,131874,5.5,3.3,5.6,Kerala,2 years,4.6
+123,600957,139876,16316,4838,953,Facebook,35 to 45,Others,3.5,Cosmetics,139375,4.5,3.7,3.9,Maharashtra,3 months,3.4
+124,563374,79708,35956,4384,4592,Facebook,35 to 45,Others,7.6,Cosmetics,107457,1.9,3.0,6.0,Kerala,1 year,4.6
+125,522550,150250,46413,4987,2544,Facebook,15 to 25,Male,5.7,Clothing,72976,2.3,6.3,1.4,Maharashtra,6 months,3.8
+126,661483,383258,34722,5570,2884,Instagram,15 to 25,Others,7.4,Clothing,87126,7.0,4.7,8.0,Punjab,6 months,5.6
+127,818003,170342,38184,161,4547,Facebook,5 to 15,Female,5.1,Clothing,55439,6.2,2.1,5.2,Rajasthan,1 month,4.2
+128,853848,56534,41724,3339,3233,Instagram,35 to 45,Male,4.6,Cosmetics,116469,1.3,3.2,2.9,Maharashtra,1 year,3.9
+129,444733,483757,30934,8349,3341,Facebook,25 to 35,Others,3.8,Cosmetics,93474,2.7,7.3,6.5,Punjab,1 year,4.2
+130,93779,199934,14481,8068,2892,Instagram,35 to 45,Others,2.7,Clothing,117976,7.9,2.6,5.1,Sikkim,3 months,3.8
+131,817410,384498,16825,2833,2721,Instagram,5 to 15,Female,9.3,Clothing,141769,4.6,8.3,1.4,Punjab,1 year,4.8
+132,675044,103336,42197,6649,3077,Facebook,35 to 45,Others,6.2,Cosmetics,79104,7.0,1.8,7.3,Tamil Nadu,3 months,5.3
+133,120173,132745,29629,3229,3823,Instagram,35 to 45,Male,2.5,Cosmetics,112797,1.8,6.6,4.3,Maharashtra,1 year,3.5
+134,391188,484441,28397,8699,1849,Facebook,15 to 25,Female,2.7,Clothing,91022,7.1,1.5,3.2,Rajasthan,3 months,3.0
+135,266454,70272,30970,1648,3535,YouTube,5 to 15,Others,9.7,Accessories,85000,5.0,5.5,3.5,Maharashtra,2 months,5.6
+136,994689,59826,7145,9568,1451,Instagram,25 to 35,Male,2.9,Cosmetics,96305,3.0,6.2,1.6,Rajasthan,2 months,3.0
+137,273692,325947,11061,4753,2848,Facebook,5 to 15,Female,4.4,Accessories,149841,2.3,1.1,1.6,Tamil Nadu,6 months,1.9
+138,66126,56105,33368,2841,1163,Facebook,35 to 45,Male,8.4,Clothing,98963,9.5,6.0,4.0,Sikkim,2 years,6.8
+139,758889,446974,18793,6662,2880,Facebook,5 to 15,Male,9.3,Cosmetics,59603,4.7,3.2,9.5,Sikkim,2 years,5.4
+140,479224,35943,14627,760,2277,Instagram,25 to 35,Others,3.9,Clothing,84164,5.1,3.1,4.3,Gujarat,1 month,4.1
+141,432605,396761,47377,5965,1395,Instagram,15 to 25,Male,5.5,Accessories,113103,1.2,6.8,4.0,Punjab,1 month,3.7
+142,408541,455509,2323,6854,948,Instagram,35 to 45,Others,4.3,Clothing,88278,5.0,2.8,3.2,Punjab,2 months,3.1
+143,154346,260536,30315,7220,213,Facebook,15 to 25,Female,6.0,Clothing,64605,3.6,2.0,5.9,Punjab,1 month,3.7
+144,726640,328838,11470,2673,2221,Instagram,5 to 15,Others,5.8,Cosmetics,63640,5.0,1.1,9.8,Gujarat,1 year,4.4
+145,512993,128065,12775,4336,1878,YouTube,15 to 25,Male,9.3,Cosmetics,133464,8.1,3.6,1.5,Maharashtra,2 months,4.7
+146,978597,345559,12505,8798,4730,Instagram,5 to 15,Others,4.1,Accessories,99795,3.6,8.0,2.3,Sikkim,1 month,3.7
+147,718059,46088,6699,7910,4246,YouTube,35 to 45,Others,7.0,Accessories,138334,6.2,5.7,3.7,Punjab,1 year,4.8
+148,873666,281370,46991,5888,1468,Facebook,25 to 35,Male,7.4,Accessories,80159,3.7,6.3,1.0,Punjab,1 month,4.0
+149,855522,274973,42137,405,2434,Instagram,25 to 35,Female,7.1,Cosmetics,50392,3.0,4.7,2.8,Sikkim,1 year,3.8
+150,69954,262358,34918,1325,4318,Facebook,15 to 25,Female,6.5,Accessories,125944,6.0,5.0,4.1,Tamil Nadu,1 year,4.6
+151,599022,24304,13488,3188,1231,YouTube,35 to 45,Female,5.7,Clothing,70127,3.0,7.7,6.5,Punjab,2 years,5.7
+152,100064,363325,6186,5500,4563,YouTube,5 to 15,Others,3.3,Clothing,133429,6.0,5.0,1.1,Maharashtra,2 years,3.1
+153,90692,220707,39475,8931,4852,Instagram,5 to 15,Others,2.9,Clothing,113135,5.0,4.4,6.7,Maharashtra,6 months,4.2
+154,432042,178625,44388,1456,4502,Instagram,5 to 15,Female,3.2,Clothing,135579,5.3,5.6,7.0,Tamil Nadu,2 years,4.7
+155,651900,59924,21592,135,121,Instagram,5 to 15,Female,6.7,Clothing,139066,3.5,6.5,9.0,Rajasthan,1 year,5.9
+156,261149,498754,8826,1246,1261,Instagram,15 to 25,Others,8.6,Accessories,134082,7.9,4.3,4.8,Kerala,6 months,5.2
+157,445891,354530,13981,9543,3892,Facebook,25 to 35,Female,2.9,Accessories,83294,7.2,9.8,3.2,Rajasthan,1 month,4.7
+158,629440,158436,13431,1855,2020,YouTube,25 to 35,Female,6.6,Clothing,67770,1.7,1.5,5.5,Sikkim,3 months,3.2
+159,620366,334404,42216,5335,1802,YouTube,5 to 15,Male,8.9,Clothing,88115,4.4,3.2,2.9,Maharashtra,1 month,4.1
+160,108798,318571,15629,3142,2323,Facebook,5 to 15,Others,5.9,Cosmetics,99836,1.8,8.5,3.4,Gujarat,6 months,4.0
+161,509363,159112,41458,7436,4890,Facebook,35 to 45,Male,5.4,Cosmetics,62096,3.7,5.7,7.5,Gujarat,1 year,5.0
+162,496246,494105,7285,4671,2264,Instagram,25 to 35,Others,4.5,Accessories,131365,5.1,5.3,5.2,Sikkim,2 years,4.0
+163,391425,270721,35840,9030,3773,Facebook,15 to 25,Male,6.8,Clothing,112901,2.0,7.4,2.1,Gujarat,1 year,3.9
+164,111451,27745,24221,1438,4957,Facebook,5 to 15,Female,3.1,Accessories,79280,4.8,1.9,5.9,Maharashtra,1 month,4.9
+165,764121,126447,4854,8283,3558,Facebook,35 to 45,Others,2.4,Cosmetics,52767,9.0,1.7,2.5,Kerala,2 months,3.2
+166,435685,73514,40166,2264,807,YouTube,5 to 15,Male,5.9,Cosmetics,131607,1.2,1.3,1.5,Gujarat,6 months,3.1
+167,307610,227553,34496,9232,3980,Facebook,15 to 25,Others,3.9,Clothing,111063,7.3,4.2,6.2,Tamil Nadu,1 month,4.6
+168,521096,485758,34250,6427,2479,Instagram,35 to 45,Female,8.8,Accessories,66989,8.7,7.6,10.0,Tamil Nadu,1 month,7.2
+169,861091,29111,47253,3095,4648,Instagram,5 to 15,Male,7.7,Cosmetics,129519,9.3,2.7,9.9,Gujarat,1 year,9.2
+170,931309,401073,6363,8936,2207,Facebook,35 to 45,Others,5.1,Cosmetics,69185,4.2,4.1,8.7,Gujarat,2 years,4.5
+171,611427,481439,1058,8303,3502,Instagram,5 to 15,Female,4.9,Clothing,76831,4.9,5.9,4.2,Maharashtra,2 months,4.0
+172,906310,179990,31311,3272,4573,YouTube,25 to 35,Female,2.3,Clothing,120079,1.9,4.1,2.9,Kerala,2 years,2.6
+173,446319,408722,47769,673,1456,Instagram,15 to 25,Others,8.8,Clothing,69001,7.6,8.0,5.1,Punjab,2 years,6.1
+174,369387,186646,11473,5339,4580,Instagram,35 to 45,Male,5.8,Accessories,97016,7.8,4.3,7.6,Sikkim,3 months,5.2
+175,688460,411833,48894,6699,3293,Facebook,25 to 35,Male,7.1,Clothing,54928,3.2,3.6,9.3,Gujarat,2 years,4.9
+176,265332,111202,46919,6318,2784,YouTube,15 to 25,Male,5.7,Cosmetics,120705,4.4,6.9,7.9,Maharashtra,1 year,5.8
+177,668016,423657,40281,4055,4082,Instagram,5 to 15,Male,6.2,Accessories,74710,8.5,7.8,6.5,Punjab,1 month,6.0
+178,570654,14730,11439,9284,4346,Instagram,15 to 25,Female,8.7,Accessories,100788,5.3,6.1,7.7,Punjab,3 months,7.1
+179,81806,458745,43886,3027,361,Instagram,15 to 25,Female,9.6,Clothing,55668,1.7,1.1,4.0,Rajasthan,2 months,3.5
+180,175663,417403,34031,7067,3985,Facebook,25 to 35,Female,6.0,Cosmetics,83423,6.6,8.8,2.8,Kerala,2 years,5.0
+181,231788,133932,44673,6223,2922,Instagram,15 to 25,Female,8.9,Cosmetics,95649,9.6,8.0,1.7,Rajasthan,2 years,6.3
+182,804235,237716,36571,1000,402,Facebook,15 to 25,Female,5.9,Accessories,131098,1.0,4.4,7.6,Rajasthan,1 year,4.1
+183,281667,126602,35676,2322,3376,Instagram,35 to 45,Others,7.9,Cosmetics,114259,3.3,5.1,4.2,Tamil Nadu,3 months,4.7
+184,786742,496123,47823,3566,575,YouTube,35 to 45,Female,3.4,Clothing,64577,8.4,9.2,7.3,Rajasthan,1 year,5.9
+185,470584,330210,39275,300,424,Facebook,5 to 15,Male,2.3,Clothing,62229,2.8,6.9,5.2,Sikkim,3 months,3.7
+186,448509,416297,29461,411,2989,Facebook,25 to 35,Male,2.8,Cosmetics,67983,2.8,6.6,9.8,Gujarat,1 year,4.5
+187,770221,419227,29640,6543,101,Instagram,5 to 15,Female,6.7,Clothing,58028,2.3,5.0,9.4,Rajasthan,1 year,4.8
+188,281320,110948,43807,5836,1303,YouTube,15 to 25,Male,2.8,Cosmetics,118901,4.8,5.3,9.6,Kerala,1 year,5.3
+189,968628,333671,21395,6989,3771,Facebook,25 to 35,Others,9.9,Cosmetics,79607,4.0,7.9,6.2,Maharashtra,2 months,5.7
+190,281321,17435,26109,8882,3521,YouTube,5 to 15,Male,7.0,Accessories,54811,1.0,8.4,8.5,Kerala,2 months,8.0
+191,138333,401158,24390,2475,721,Facebook,25 to 35,Female,5.2,Cosmetics,94841,2.0,5.4,7.8,Maharashtra,2 years,4.2
+192,405962,492042,42045,9487,3170,YouTube,5 to 15,Others,3.1,Cosmetics,78622,5.1,4.5,1.3,Tamil Nadu,3 months,3.0
+193,308570,136726,20039,806,2827,Facebook,15 to 25,Male,4.5,Accessories,53349,9.7,2.7,3.3,Punjab,1 month,4.3
+194,630419,477751,25482,6086,742,Facebook,15 to 25,Female,6.4,Cosmetics,70942,8.0,1.8,9.0,Kerala,2 months,5.1
+195,827522,261076,12311,7302,1234,Facebook,35 to 45,Others,9.0,Cosmetics,59153,2.3,9.2,6.5,Gujarat,1 year,5.5
+196,780179,301155,20379,143,1255,Facebook,5 to 15,Female,3.1,Accessories,130610,4.4,1.3,6.3,Rajasthan,2 years,3.2
+197,764224,41296,13957,344,3114,Facebook,5 to 15,Male,1.6,Cosmetics,98426,4.1,7.2,4.4,Punjab,2 months,4.1
+198,374941,73240,26469,4125,3112,Facebook,35 to 45,Others,9.3,Clothing,87111,4.3,3.4,8.4,Rajasthan,1 year,5.8
+199,847025,15750,4445,3297,54,Facebook,15 to 25,Male,8.7,Cosmetics,87026,7.7,8.2,2.1,Sikkim,6 months,5.9
+200,247777,295975,18279,3826,1261,YouTube,25 to 35,Others,1.3,Clothing,84487,7.7,6.9,9.7,Rajasthan,1 year,5.2
+201,474894,424022,18306,6876,4813,Facebook,5 to 15,Female,4.9,Clothing,112508,8.3,4.0,3.1,Maharashtra,1 month,4.1
+202,122335,93855,39612,4707,4279,YouTube,5 to 15,Others,3.4,Accessories,65388,3.4,9.9,3.7,Sikkim,1 year,4.9
+203,827963,417629,38508,5288,3169,YouTube,35 to 45,Male,4.6,Cosmetics,101824,8.8,8.6,1.8,Punjab,2 years,4.9
+204,161468,460805,41824,2792,924,YouTube,5 to 15,Others,7.4,Clothing,71454,9.1,3.2,6.8,Kerala,1 year,5.5
+205,192554,308045,26744,1448,3039,YouTube,5 to 15,Female,2.4,Cosmetics,135795,8.4,2.5,7.7,Tamil Nadu,2 months,4.4
+206,384308,145410,13326,3396,1938,Instagram,25 to 35,Female,4.8,Accessories,142114,8.0,7.5,8.3,Gujarat,6 months,5.9
+207,140787,26324,36674,1629,586,Facebook,25 to 35,Others,5.0,Clothing,53777,2.3,8.3,8.8,Rajasthan,1 month,7.7
+208,740396,419418,28039,2160,557,Instagram,25 to 35,Female,5.1,Clothing,69250,5.6,6.5,6.2,Kerala,2 months,4.8
+209,489905,469675,5377,6927,1876,Facebook,5 to 15,Male,2.4,Clothing,118164,7.3,7.7,3.1,Gujarat,6 months,4.1
+210,513928,437781,11339,5171,4464,Facebook,25 to 35,Male,3.3,Clothing,87861,2.2,6.5,1.7,Punjab,1 month,2.8
+211,471535,120438,28598,3574,4930,YouTube,35 to 45,Male,1.6,Clothing,79936,5.5,5.6,5.8,Rajasthan,3 months,4.2
+212,608273,169023,6600,2312,2069,Facebook,15 to 25,Others,3.6,Accessories,81830,10.0,2.6,5.8,Maharashtra,1 month,4.5
+213,292246,36482,1733,9082,3079,YouTube,25 to 35,Male,5.3,Clothing,66795,8.0,2.2,7.0,Punjab,6 months,4.6
+214,65624,383964,34976,766,4185,Instagram,15 to 25,Male,6.8,Accessories,133554,6.4,1.7,1.4,Maharashtra,3 months,3.4
+215,163563,20457,27468,1823,3246,Instagram,35 to 45,Male,6.7,Cosmetics,124601,1.2,2.6,9.0,Tamil Nadu,1 month,6.6
+216,944824,293731,5023,2453,1187,Instagram,35 to 45,Male,1.6,Accessories,127983,1.1,6.1,5.9,Maharashtra,3 months,3.0
+217,736255,329639,44518,9589,1544,Instagram,5 to 15,Female,9.3,Accessories,111455,2.8,9.3,9.9,Punjab,2 years,6.5
+218,99935,15907,8684,7815,3416,Instagram,15 to 25,Others,6.2,Clothing,132918,7.8,3.5,6.8,Sikkim,6 months,6.0
+219,558577,321483,28719,3312,3981,YouTube,5 to 15,Male,9.8,Clothing,51533,8.1,6.4,7.6,Rajasthan,2 months,6.6
+220,964017,75182,36050,5816,1178,Facebook,15 to 25,Others,8.9,Clothing,66454,1.5,9.9,3.7,Tamil Nadu,3 months,5.8
+221,181621,54301,18790,2695,1504,Facebook,35 to 45,Male,6.7,Clothing,75836,8.3,1.4,7.1,Maharashtra,2 years,5.4
+222,472396,235809,19207,4533,4693,Facebook,15 to 25,Female,3.1,Accessories,66648,5.0,5.3,8.1,Sikkim,2 months,4.5
+223,385944,211158,44018,9071,4675,YouTube,5 to 15,Female,8.0,Cosmetics,146561,4.0,9.9,7.5,Gujarat,6 months,6.3
+224,535161,480826,24073,8797,1808,YouTube,25 to 35,Others,8.0,Clothing,99906,9.9,6.9,5.1,Sikkim,3 months,6.1
+225,700348,224757,7817,9552,4962,Instagram,35 to 45,Female,7.1,Accessories,89142,9.4,5.5,8.2,Gujarat,1 year,6.1
+226,249225,217065,36101,9422,2655,Facebook,15 to 25,Male,3.6,Clothing,121204,4.3,9.3,9.1,Kerala,3 months,5.6
+227,100899,423627,29727,1746,3697,Facebook,25 to 35,Others,6.1,Clothing,104371,3.4,1.6,9.1,Kerala,6 months,4.2
+228,383915,223889,20739,1528,1814,Instagram,35 to 45,Female,5.4,Clothing,60171,6.9,9.8,9.5,Gujarat,6 months,6.5
+229,869362,207913,21058,1062,94,Instagram,15 to 25,Male,3.4,Accessories,110248,5.1,6.6,4.5,Sikkim,3 months,4.1
+230,828982,426967,22444,5790,4162,Facebook,15 to 25,Male,8.8,Clothing,73356,3.6,8.1,5.7,Gujarat,2 years,5.3
+231,85833,198485,37810,7487,2416,YouTube,15 to 25,Male,5.4,Accessories,102761,1.8,5.8,4.5,Maharashtra,6 months,3.9
+232,448985,470600,41985,3747,2886,Instagram,5 to 15,Male,5.0,Accessories,113801,9.3,6.6,2.4,Kerala,1 year,4.8
+233,817193,72148,32265,2360,4202,YouTube,25 to 35,Male,2.7,Accessories,72866,8.1,6.2,2.0,Punjab,6 months,4.7
+234,908834,253862,10643,3620,453,YouTube,35 to 45,Male,4.4,Cosmetics,99480,5.1,3.4,5.6,Rajasthan,2 years,3.8
+235,393919,279254,35804,2921,3169,Facebook,25 to 35,Male,8.3,Clothing,131960,9.2,6.7,3.7,Kerala,3 months,5.8
+236,184712,69226,20112,480,3065,Facebook,15 to 25,Female,6.9,Clothing,60238,2.9,6.2,4.8,Gujarat,2 years,4.7
+237,359666,41359,40092,3330,2460,YouTube,15 to 25,Male,9.5,Accessories,131061,8.3,1.7,1.8,Rajasthan,2 years,6.2
+238,540184,363877,19323,2861,4710,YouTube,15 to 25,Others,9.7,Clothing,146931,3.7,7.2,9.5,Sikkim,3 months,6.1
+239,353205,450824,28702,9135,2770,YouTube,5 to 15,Others,6.7,Clothing,145282,2.1,4.9,1.3,Punjab,1 month,3.1
+240,608621,340812,14661,690,1987,YouTube,15 to 25,Male,6.4,Cosmetics,65375,9.9,3.3,2.9,Kerala,2 years,4.6
+241,591919,311293,38231,169,2388,Facebook,5 to 15,Others,7.4,Accessories,91168,6.5,3.1,5.8,Sikkim,2 months,4.8
+242,777863,383001,36068,4984,709,Instagram,5 to 15,Others,2.3,Accessories,66945,3.5,4.4,6.9,Maharashtra,6 months,3.6
+243,69663,269156,9500,761,4178,Facebook,25 to 35,Others,7.2,Accessories,121456,4.3,5.8,7.8,Punjab,1 year,5.1
+244,426219,290633,4081,5244,3878,Instagram,25 to 35,Male,5.2,Clothing,71355,7.0,6.2,4.3,Sikkim,1 month,4.6
+245,980737,418165,23776,7969,2781,Instagram,5 to 15,Female,6.5,Clothing,96499,6.6,2.5,3.8,Gujarat,1 month,4.0
+246,938713,11534,8451,931,4288,Facebook,35 to 45,Female,2.3,Clothing,83255,8.9,2.7,4.4,Sikkim,1 month,5.1
+247,502418,472198,22441,6826,1296,Instagram,35 to 45,Male,9.9,Clothing,127140,4.7,2.2,4.9,Sikkim,6 months,4.4
+248,561924,169446,36849,4397,406,Instagram,15 to 25,Female,1.6,Clothing,56863,6.4,8.4,2.0,Gujarat,2 years,4.1
+249,182063,104896,20910,5536,4957,Instagram,25 to 35,Female,7.8,Accessories,106118,4.1,5.7,2.4,Punjab,2 years,4.4
+250,66343,223353,32083,8080,2072,YouTube,25 to 35,Female,2.5,Accessories,130297,1.6,4.1,9.1,Gujarat,1 month,3.7
+251,413134,172187,46374,7670,3205,Instagram,25 to 35,Female,1.1,Clothing,141514,3.6,5.7,8.0,Kerala,2 years,4.2
+252,532012,123146,17534,6641,4322,Facebook,25 to 35,Male,4.1,Accessories,106056,3.8,8.7,8.0,Kerala,2 months,5.2
+253,872401,165191,15955,5805,2568,YouTube,15 to 25,Others,8.4,Accessories,138213,8.6,3.8,3.0,Gujarat,1 year,5.0
+254,663466,472257,8224,2291,1276,YouTube,35 to 45,Male,8.7,Clothing,145720,2.5,5.2,2.9,Punjab,2 months,3.9
+255,479063,230556,23976,5850,4934,Facebook,25 to 35,Male,9.2,Accessories,84555,7.5,7.8,2.5,Rajasthan,6 months,5.6
+256,683611,465353,4412,787,4805,Facebook,25 to 35,Female,9.0,Cosmetics,70228,7.6,9.2,7.7,Gujarat,1 month,6.7
+257,886421,419387,31328,5745,180,Facebook,15 to 25,Male,7.9,Accessories,81606,1.5,4.7,3.5,Maharashtra,3 months,3.7
+258,293276,155713,29787,595,1626,Instagram,5 to 15,Male,7.0,Cosmetics,59351,1.6,6.5,8.2,Sikkim,2 months,5.0
+259,858603,96808,47895,2538,2345,Facebook,35 to 45,Others,6.3,Accessories,72245,5.5,5.0,2.8,Kerala,1 year,4.9
+260,110483,211524,12318,1978,2215,Instagram,35 to 45,Female,8.5,Cosmetics,128324,2.1,5.1,1.4,Rajasthan,3 months,3.5
+261,916007,445479,20910,9762,3598,Instagram,25 to 35,Male,9.8,Clothing,67838,7.6,6.4,8.5,Rajasthan,2 years,6.6
+262,904107,332201,37793,8147,4543,YouTube,5 to 15,Male,6.9,Accessories,62874,3.3,4.8,1.0,Maharashtra,1 month,3.4
+263,655782,172725,40744,7968,4883,Instagram,35 to 45,Others,6.8,Cosmetics,71629,2.2,1.6,1.4,Gujarat,2 years,2.9
+264,57362,24858,33834,7774,52,YouTube,15 to 25,Others,6.0,Clothing,149667,4.9,2.6,6.7,Kerala,2 months,6.8
+265,74927,405471,22059,9525,2613,Facebook,5 to 15,Male,6.2,Cosmetics,107068,7.7,8.1,1.8,Tamil Nadu,6 months,4.9
+266,591865,469372,11791,6176,1248,Instagram,35 to 45,Female,9.8,Cosmetics,63559,6.6,3.5,7.8,Sikkim,3 months,5.6
+267,427097,307337,13527,8322,1136,YouTube,5 to 15,Others,6.4,Cosmetics,79604,8.2,5.6,3.3,Gujarat,3 months,4.8
+268,348446,59267,17324,3482,721,YouTube,15 to 25,Male,8.5,Accessories,89216,7.0,6.5,8.9,Tamil Nadu,2 years,6.8
+269,760052,439557,15664,2957,1988,Facebook,35 to 45,Male,7.3,Clothing,114838,8.9,4.2,4.6,Tamil Nadu,2 years,5.1
+270,748000,145868,42078,6294,2261,Instagram,15 to 25,Male,8.2,Cosmetics,54878,3.7,5.7,5.5,Gujarat,2 years,5.2
+271,857521,34204,37838,6601,4230,YouTube,5 to 15,Others,7.7,Accessories,110647,8.2,4.0,6.2,Sikkim,6 months,7.4
+272,610594,320988,1835,867,3574,Instagram,25 to 35,Female,5.8,Cosmetics,134898,6.1,1.7,1.4,Tamil Nadu,2 years,3.0
+273,669000,108284,32219,5232,365,Instagram,25 to 35,Others,9.4,Accessories,104479,6.1,5.6,9.3,Punjab,1 month,6.7
+274,799834,158178,47132,1545,474,YouTube,5 to 15,Female,5.3,Accessories,52445,2.6,4.8,1.3,Kerala,2 years,3.4
+275,302076,141784,42278,4289,2041,Facebook,25 to 35,Others,6.5,Accessories,75400,6.2,6.1,4.9,Gujarat,2 years,5.3
+276,102785,411451,30219,7501,4911,Facebook,5 to 15,Male,4.6,Clothing,89028,7.1,6.9,3.5,Gujarat,2 years,4.6
+277,865663,297759,1189,9730,3380,YouTube,5 to 15,Female,2.2,Clothing,84585,7.9,2.9,9.2,Sikkim,2 years,4.4
+278,112627,259638,44605,4891,3921,Instagram,15 to 25,Female,9.1,Accessories,96726,2.6,2.2,1.6,Kerala,1 month,3.4
+279,540514,311248,24391,7482,2359,Facebook,5 to 15,Female,8.2,Clothing,84439,8.7,2.7,4.9,Punjab,1 year,5.1
+280,843651,425265,49968,1903,4459,Instagram,5 to 15,Female,2.1,Clothing,109822,9.8,9.8,3.6,Gujarat,1 month,5.3
+281,483896,154438,6698,872,2906,YouTube,5 to 15,Male,2.3,Clothing,102728,5.7,7.6,2.2,Gujarat,3 months,3.6
+282,134565,129841,15632,2648,1405,Instagram,5 to 15,Male,2.0,Clothing,87126,2.7,7.0,1.0,Tamil Nadu,1 month,2.8
+283,570116,48788,33533,1515,4428,Instagram,5 to 15,Male,3.8,Clothing,92356,1.1,6.4,9.1,Rajasthan,6 months,5.5
+284,244654,466395,20202,8023,3568,YouTube,15 to 25,Others,9.4,Accessories,144127,5.3,6.7,9.2,Gujarat,2 months,6.2
+285,559624,389849,45729,504,1485,YouTube,25 to 35,Others,7.4,Cosmetics,101142,9.0,7.3,8.1,Gujarat,1 month,6.6
+286,275604,297483,16668,1286,2390,Instagram,35 to 45,Others,6.7,Clothing,52987,7.9,6.4,9.3,Rajasthan,2 years,6.2
+287,382905,363837,11820,8630,2931,YouTube,35 to 45,Others,7.3,Cosmetics,62096,7.7,9.0,2.4,Gujarat,6 months,5.3
+288,713499,80934,32112,9429,4622,Facebook,35 to 45,Female,7.1,Clothing,68634,8.5,4.7,5.3,Punjab,3 months,5.9
+289,247730,190375,36247,5343,440,Facebook,15 to 25,Female,1.3,Clothing,79996,8.0,3.4,8.0,Kerala,1 year,4.5
+290,811468,58901,21437,8980,2557,Instagram,15 to 25,Others,2.5,Cosmetics,54386,9.9,8.1,3.6,Maharashtra,1 month,5.5
+291,116705,191099,35187,8749,2010,Facebook,25 to 35,Others,3.6,Accessories,100463,7.1,2.1,6.7,Kerala,1 year,4.3
+292,252173,337872,24752,3880,2201,Facebook,15 to 25,Female,3.0,Clothing,72187,8.6,3.3,1.5,Sikkim,2 months,3.4
+293,826523,478334,14612,5517,4557,YouTube,35 to 45,Others,9.3,Accessories,123171,1.4,8.3,6.7,Gujarat,2 months,5.2
+294,245037,27205,1004,3561,3897,YouTube,25 to 35,Others,4.5,Accessories,75186,3.0,7.2,1.3,Rajasthan,2 years,3.3
+295,355644,111489,11599,322,398,Instagram,15 to 25,Male,3.0,Cosmetics,88539,5.3,1.1,8.6,Kerala,2 months,3.8
+296,265224,182481,18748,5872,1242,Instagram,5 to 15,Female,2.1,Clothing,109335,1.4,1.4,4.0,Maharashtra,2 years,2.0
+297,663605,378777,45638,6297,3901,YouTube,5 to 15,Male,8.8,Cosmetics,95180,7.0,5.5,5.7,Tamil Nadu,2 years,5.6
+298,122683,198349,3160,4228,172,Facebook,25 to 35,Others,6.4,Clothing,148665,8.3,3.7,8.5,Kerala,2 years,5.4
+299,258466,310645,12569,3872,185,Facebook,35 to 45,Female,7.5,Clothing,125469,5.5,3.2,7.9,Kerala,1 month,4.9
+300,345566,216651,6476,6961,807,Facebook,5 to 15,Others,7.1,Clothing,102041,3.7,3.7,3.9,Maharashtra,3 months,3.7
+301,315149,227904,44917,4799,2526,YouTube,35 to 45,Others,8.0,Clothing,129058,2.4,3.3,7.0,Tamil Nadu,2 months,4.5
+302,947015,433562,31496,6856,2377,YouTube,15 to 25,Others,4.9,Accessories,83156,3.7,7.9,5.4,Punjab,6 months,4.5
+303,559635,13018,6973,6483,3122,YouTube,35 to 45,Male,5.3,Cosmetics,98007,8.7,8.2,4.7,Rajasthan,6 months,6.5
+304,435484,335558,35789,1102,976,Facebook,15 to 25,Female,3.5,Cosmetics,76376,3.2,1.4,3.1,Rajasthan,2 months,2.5
+305,936759,213127,19347,1178,292,YouTube,5 to 15,Others,2.7,Cosmetics,51059,9.5,1.9,9.2,Sikkim,3 months,4.8
+306,83952,316247,3608,134,675,Facebook,35 to 45,Female,8.8,Accessories,67457,7.1,7.5,8.6,Gujarat,1 year,6.4
+307,799096,377289,10160,6212,214,Instagram,15 to 25,Others,8.8,Clothing,97311,7.0,5.1,5.4,Tamil Nadu,1 year,5.3
+308,813929,347805,31222,3711,552,Facebook,15 to 25,Male,2.2,Clothing,126495,1.9,1.3,8.4,Kerala,1 year,2.9
+309,75624,21644,41635,4501,1444,Facebook,5 to 15,Male,7.1,Clothing,110073,9.3,9.2,2.4,Rajasthan,2 months,9.4
+310,883206,276531,28630,4998,4076,Instagram,15 to 25,Others,8.2,Cosmetics,136878,8.1,7.6,7.2,Maharashtra,2 years,6.4
+311,480520,381374,46573,3221,3556,Instagram,35 to 45,Male,9.9,Accessories,72487,6.7,1.2,1.7,Sikkim,1 year,4.1
+312,754300,139791,13696,5603,1867,YouTube,15 to 25,Female,2.0,Cosmetics,124070,3.6,4.3,3.3,Maharashtra,6 months,2.8
+313,519396,300742,4153,4905,2015,Instagram,25 to 35,Male,2.6,Cosmetics,75336,1.1,7.2,1.5,Kerala,1 year,2.5
+314,403108,35171,3848,6667,3572,Facebook,5 to 15,Female,3.6,Accessories,107930,3.0,6.2,8.9,Punjab,6 months,4.6
+315,456441,101119,15062,8933,2770,YouTube,15 to 25,Male,1.9,Accessories,144728,1.1,4.8,8.5,Gujarat,2 months,3.6
+316,178649,139360,48680,8979,580,Instagram,5 to 15,Male,3.1,Cosmetics,139390,1.4,7.1,6.8,Sikkim,2 years,4.4
+317,782613,428932,2961,4980,422,YouTube,35 to 45,Male,2.6,Cosmetics,71723,8.9,5.9,6.0,Sikkim,6 months,4.7
+318,369545,185105,20502,8742,4247,Instagram,5 to 15,Female,4.7,Accessories,111534,5.6,7.3,2.7,Sikkim,2 years,4.3
+319,582828,127033,3285,5031,1126,YouTube,5 to 15,Others,3.4,Clothing,130101,8.1,1.7,5.5,Maharashtra,1 month,3.8
+320,563302,122582,13775,7867,478,Instagram,25 to 35,Female,5.3,Cosmetics,105155,4.5,4.9,5.8,Sikkim,6 months,4.3
+321,931217,264989,12930,9788,3630,Facebook,15 to 25,Female,6.1,Accessories,129550,8.7,4.2,6.8,Sikkim,3 months,5.3
+322,776828,451600,37754,6681,230,Facebook,35 to 45,Others,2.4,Accessories,96193,3.2,4.3,5.7,Tamil Nadu,2 months,3.3
+323,546603,392430,19148,8744,1557,Instagram,35 to 45,Male,8.3,Accessories,123953,4.9,6.4,7.8,Tamil Nadu,2 years,5.6
+324,380941,213453,49437,5031,1864,YouTube,5 to 15,Male,7.0,Clothing,128378,5.9,7.5,1.5,Punjab,1 month,4.8
+325,479164,212629,24541,4184,3075,Facebook,25 to 35,Female,6.9,Accessories,147833,1.8,7.1,8.2,Gujarat,6 months,5.0
+326,850669,155823,2590,9157,3018,YouTube,25 to 35,Others,4.7,Accessories,102281,5.9,7.3,4.8,Kerala,2 years,4.6
+327,592907,378758,43814,3482,1644,YouTube,35 to 45,Male,3.0,Accessories,110332,6.8,7.1,4.8,Rajasthan,1 month,4.6
+328,402255,60238,47613,8843,1652,Instagram,25 to 35,Female,9.6,Accessories,125580,5.5,6.2,2.5,Sikkim,6 months,6.3
+329,587768,414103,25903,3330,4488,Instagram,15 to 25,Others,6.5,Cosmetics,127032,1.2,7.1,1.3,Maharashtra,2 months,3.3
+330,56894,218088,9983,2779,274,Instagram,35 to 45,Others,6.3,Clothing,60306,2.3,2.3,6.2,Gujarat,1 year,3.5
+331,468955,406620,21829,3945,1083,YouTube,35 to 45,Others,8.6,Clothing,138467,9.3,9.3,4.0,Tamil Nadu,3 months,6.3
+332,875878,301845,40812,1895,1307,Instagram,25 to 35,Others,4.5,Accessories,97101,3.9,5.9,4.8,Maharashtra,1 year,4.1
+333,560815,35346,29010,9303,2616,Instagram,25 to 35,Others,9.3,Accessories,66901,9.5,2.8,1.0,Maharashtra,2 months,6.2
+334,402190,349032,49567,7488,1656,Instagram,5 to 15,Male,4.9,Clothing,73883,1.7,5.9,6.4,Tamil Nadu,6 months,4.1
+335,547346,187909,23847,299,4699,Instagram,15 to 25,Others,6.2,Accessories,103214,5.7,4.3,6.8,Kerala,6 months,4.9
+336,171366,319352,1961,3319,1234,Facebook,15 to 25,Male,3.4,Accessories,79873,3.0,9.5,6.1,Maharashtra,2 years,4.4
+337,294775,416689,45619,1467,2410,Facebook,35 to 45,Male,3.2,Cosmetics,91172,9.1,5.0,8.9,Kerala,6 months,5.5
+338,352735,80704,47783,5719,3946,YouTube,25 to 35,Male,6.0,Cosmetics,118062,5.1,1.0,4.9,Sikkim,3 months,4.6
+339,713059,324928,24172,5814,984,Instagram,15 to 25,Male,4.4,Cosmetics,74275,2.2,6.7,5.2,Kerala,1 month,3.8
+340,287944,424622,12512,2419,127,Facebook,5 to 15,Female,7.0,Accessories,106892,6.7,3.2,3.3,Tamil Nadu,2 months,4.1
+341,373347,13685,43961,7981,673,YouTube,25 to 35,Male,7.5,Clothing,51411,9.2,9.1,4.8,Sikkim,1 year,12.5
+342,557809,432836,32901,5215,4224,YouTube,25 to 35,Others,8.0,Cosmetics,79455,4.0,5.8,8.5,Sikkim,1 month,5.4
+343,349776,477233,16411,5601,3202,Instagram,25 to 35,Others,5.9,Clothing,100466,8.3,9.4,8.1,Gujarat,1 month,6.4
+344,367895,327486,1409,1300,169,YouTube,25 to 35,Female,2.8,Cosmetics,72916,8.8,4.0,4.2,Kerala,1 year,4.0
+345,752927,14953,11016,4947,4937,Instagram,35 to 45,Male,7.6,Clothing,88811,5.2,4.8,6.6,Gujarat,3 months,6.3
+346,738793,130416,10436,2717,2165,Facebook,35 to 45,Male,4.6,Clothing,131653,4.7,5.7,3.8,Kerala,2 years,3.9
+347,995813,228788,43968,7454,2676,Facebook,5 to 15,Male,3.7,Clothing,124751,3.0,8.4,5.4,Maharashtra,2 years,4.5
+348,142601,39129,40176,2216,1288,YouTube,35 to 45,Male,7.7,Clothing,115356,8.3,6.0,8.1,Kerala,3 months,8.1
+349,287558,171899,49766,1328,3018,Facebook,25 to 35,Others,5.3,Accessories,141908,6.1,9.3,4.3,Rajasthan,1 month,5.6
+350,169408,436723,42215,9610,1718,Instagram,25 to 35,Others,7.2,Clothing,56365,9.9,7.2,9.3,Sikkim,2 years,6.9
+351,131628,171159,3433,5220,134,YouTube,25 to 35,Female,1.6,Cosmetics,63971,7.4,6.2,7.0,Kerala,6 months,4.5
+352,71800,403548,20265,1443,2615,Facebook,5 to 15,Others,2.7,Cosmetics,69646,3.0,4.9,7.3,Gujarat,3 months,3.7
+353,622807,491232,46632,4888,4104,YouTube,15 to 25,Male,8.8,Clothing,100026,7.8,2.3,1.7,Gujarat,1 month,4.3
+354,967314,280780,41918,9945,1259,YouTube,15 to 25,Male,6.1,Cosmetics,108219,8.8,9.8,6.2,Sikkim,2 years,6.5
+355,869203,229274,33171,3240,1183,Instagram,5 to 15,Male,8.6,Clothing,126734,1.4,9.0,9.3,Punjab,1 month,5.9
+356,466369,146092,49014,1104,4229,Facebook,25 to 35,Others,5.0,Cosmetics,135927,3.2,3.2,3.4,Tamil Nadu,2 years,3.6
+357,504178,306728,48356,784,2969,Facebook,25 to 35,Others,7.2,Accessories,72514,9.3,1.9,2.6,Maharashtra,6 months,4.5
+358,844029,146027,44751,5875,2370,YouTube,5 to 15,Female,8.0,Clothing,114002,2.5,6.1,4.4,Maharashtra,2 months,4.8
+359,646577,421707,2622,9068,4813,YouTube,15 to 25,Others,9.4,Accessories,114498,4.7,7.3,4.8,Gujarat,2 years,5.3
+360,809842,21377,46956,1484,2460,Facebook,5 to 15,Female,4.6,Clothing,146071,7.0,9.5,1.2,Maharashtra,1 year,8.9
+361,117891,423113,41099,2201,2308,YouTube,15 to 25,Female,5.8,Accessories,71569,5.7,6.6,1.7,Kerala,1 month,4.2
+362,665802,138146,29778,2846,904,YouTube,35 to 45,Others,6.3,Cosmetics,67925,3.8,3.4,7.0,Maharashtra,2 years,4.5
+363,796558,100852,4600,9090,3985,Facebook,35 to 45,Male,2.1,Cosmetics,50967,1.2,6.7,8.7,Rajasthan,2 months,3.8
+364,101772,391510,44999,947,3835,Facebook,15 to 25,Male,7.0,Cosmetics,96738,2.4,3.4,2.3,Punjab,2 months,3.2
+365,422149,52351,15579,2054,4764,YouTube,15 to 25,Others,2.2,Cosmetics,117722,6.5,1.7,6.6,Kerala,6 months,4.0
+366,61795,453495,30774,2413,3118,Facebook,35 to 45,Female,2.3,Accessories,144918,1.3,8.0,4.3,Punjab,3 months,3.3
+367,975379,142448,30146,6982,1356,YouTube,35 to 45,Male,8.9,Accessories,137306,3.1,1.2,8.7,Maharashtra,3 months,4.8
+368,326722,59259,20827,5428,1271,YouTube,5 to 15,Male,2.8,Cosmetics,109857,2.3,7.8,1.2,Maharashtra,1 month,3.5
+369,50416,16030,23847,8595,2028,Facebook,25 to 35,Female,3.0,Cosmetics,103183,9.7,1.8,3.8,Kerala,2 months,6.6
+370,945781,141369,3729,6136,211,YouTube,25 to 35,Male,7.3,Accessories,55724,1.8,6.8,7.9,Kerala,3 months,4.8
+371,624621,389948,34872,7035,2943,Instagram,15 to 25,Female,5.5,Cosmetics,97382,6.9,9.2,3.8,Tamil Nadu,2 months,5.3
+372,804301,166374,4456,9992,2629,Facebook,35 to 45,Female,3.0,Accessories,112018,3.0,7.5,8.1,Sikkim,1 year,4.4
+373,233053,405892,14429,7861,983,YouTube,35 to 45,Female,3.7,Accessories,142619,8.8,8.8,7.9,Gujarat,6 months,5.9
+374,187545,408032,37094,9426,637,YouTube,25 to 35,Male,2.1,Clothing,107926,5.6,1.1,2.6,Maharashtra,1 month,2.5
+375,271354,237704,30339,9915,2993,YouTube,35 to 45,Others,5.1,Clothing,109889,4.9,5.5,9.0,Tamil Nadu,1 month,5.2
+376,170728,277777,40791,1400,4951,Facebook,25 to 35,Male,1.2,Cosmetics,58519,3.6,3.6,7.7,Punjab,2 months,3.5
+377,397021,206870,22219,5348,2536,YouTube,5 to 15,Female,6.7,Accessories,132017,6.8,9.4,3.5,Maharashtra,1 month,5.5
+378,281284,59561,8450,7526,2396,YouTube,35 to 45,Female,7.9,Clothing,55498,7.8,4.7,4.2,Gujarat,3 months,5.2
+379,763190,376596,22891,3473,1956,YouTube,5 to 15,Others,6.8,Cosmetics,50911,3.9,4.9,1.7,Tamil Nadu,1 year,3.6
+380,871424,236336,27278,4089,3682,Facebook,5 to 15,Male,7.6,Cosmetics,54843,2.4,9.2,5.8,Kerala,3 months,5.2
+381,864899,395541,24053,1474,3712,YouTube,25 to 35,Female,6.7,Accessories,129353,2.2,9.2,5.4,Tamil Nadu,1 month,4.8
+382,461361,19494,6508,4394,2717,YouTube,35 to 45,Male,3.3,Accessories,82088,2.0,2.7,7.0,Rajasthan,2 years,3.7
+383,290791,497509,22231,9948,3575,Facebook,15 to 25,Female,5.0,Clothing,104903,3.4,5.3,5.6,Maharashtra,1 month,3.9
+384,858082,180352,23076,639,639,Facebook,15 to 25,Others,6.0,Clothing,53068,5.5,6.7,6.7,Kerala,1 year,5.2
+385,221385,221814,21288,3694,2719,Facebook,15 to 25,Others,5.9,Clothing,131452,4.7,3.3,3.3,Sikkim,2 years,3.6
+386,184711,390471,40802,1487,2963,Facebook,25 to 35,Male,3.5,Clothing,111122,4.7,8.3,3.1,Gujarat,1 month,4.1
+387,421312,440844,24669,6394,1738,YouTube,35 to 45,Others,7.0,Cosmetics,149237,3.9,6.9,6.9,Gujarat,1 month,5.1
+388,278238,424257,41290,9419,3119,Instagram,5 to 15,Male,4.7,Cosmetics,50406,6.4,4.7,9.6,Tamil Nadu,1 year,5.3
+389,460293,256109,17207,6417,1120,Instagram,15 to 25,Female,7.9,Accessories,65533,5.6,5.7,8.3,Gujarat,2 years,5.6
+390,844053,200987,15130,7420,1952,Instagram,5 to 15,Male,1.5,Accessories,106014,4.7,3.9,6.1,Gujarat,2 months,3.4
+391,446429,216507,24022,5303,655,Instagram,25 to 35,Male,6.8,Accessories,95399,4.6,2.5,5.8,Gujarat,1 year,4.2
+392,386429,498084,48625,8770,1158,Instagram,5 to 15,Others,3.0,Accessories,121289,4.7,5.7,9.4,Kerala,6 months,4.8
+393,229609,169623,6134,8369,742,YouTube,5 to 15,Others,2.0,Accessories,147208,2.8,1.9,2.1,Rajasthan,6 months,1.8
+394,526513,292811,24255,5567,4986,YouTube,25 to 35,Female,2.1,Clothing,108707,6.6,4.4,2.9,Maharashtra,6 months,3.4
+395,409123,492794,37374,3786,896,Facebook,5 to 15,Male,1.6,Cosmetics,117679,5.4,9.5,2.1,Punjab,6 months,3.9
+396,578909,96537,12768,3855,926,YouTube,5 to 15,Others,6.6,Clothing,78956,7.9,2.8,6.3,Sikkim,2 years,5.0
+397,917640,91671,24887,5771,1949,YouTube,15 to 25,Male,5.8,Clothing,56580,9.0,3.6,4.6,Maharashtra,3 months,5.1
+398,176879,380928,5587,8011,2273,YouTube,25 to 35,Others,5.7,Accessories,108116,1.1,5.5,5.5,Sikkim,3 months,3.6
+399,441835,331905,35489,2836,3236,YouTube,5 to 15,Male,6.2,Cosmetics,116053,3.3,1.7,1.2,Tamil Nadu,1 month,2.7
+400,563592,447857,35737,5170,4225,YouTube,35 to 45,Others,3.7,Clothing,139492,9.9,1.9,9.7,Tamil Nadu,2 years,5.2
+401,650597,237594,32298,123,4392,Instagram,5 to 15,Male,9.6,Cosmetics,80159,2.6,8.8,7.9,Maharashtra,1 year,6.1
+402,145503,461309,15465,9987,1865,Instagram,25 to 35,Male,6.4,Clothing,104449,8.1,1.3,4.5,Maharashtra,1 month,4.1
+403,91724,396327,7411,2474,170,Facebook,5 to 15,Male,7.8,Accessories,120594,8.5,9.0,3.3,Sikkim,1 month,5.8
+404,897629,494628,40069,7316,1167,YouTube,5 to 15,Female,3.1,Clothing,95666,8.8,6.6,7.2,Tamil Nadu,1 year,5.3
+405,927525,92990,29402,6092,1295,Facebook,25 to 35,Male,8.5,Clothing,109102,3.8,1.8,3.4,Sikkim,2 months,4.1
+406,960554,288244,24294,8892,406,Facebook,5 to 15,Female,6.1,Clothing,89427,9.1,3.1,6.0,Rajasthan,1 month,5.0
+407,933700,33694,3131,5289,3262,Facebook,25 to 35,Others,5.4,Accessories,102900,6.1,8.0,4.2,Tamil Nadu,6 months,4.9
+408,755035,180866,13904,7686,675,Instagram,35 to 45,Male,1.0,Cosmetics,108138,4.3,1.6,2.0,Rajasthan,3 months,1.9
+409,129931,393096,44696,102,3895,YouTube,35 to 45,Male,7.1,Cosmetics,112698,5.7,9.6,3.4,Gujarat,2 years,5.4
+410,506775,71191,14990,7019,3280,Instagram,35 to 45,Female,7.4,Cosmetics,74136,5.7,9.2,8.5,Rajasthan,2 months,6.6
+411,983229,420121,5329,4740,1014,Facebook,25 to 35,Female,7.8,Cosmetics,91791,4.1,2.9,7.5,Rajasthan,2 years,4.5
+412,130385,64941,3921,4391,1463,YouTube,35 to 45,Others,6.5,Accessories,130981,8.0,7.4,2.7,Kerala,1 month,5.0
+413,580046,279786,19230,5557,3120,YouTube,35 to 45,Male,3.9,Accessories,128475,7.9,1.4,9.0,Sikkim,6 months,4.6
+414,451196,196847,30367,2191,4085,Facebook,25 to 35,Male,3.7,Accessories,75444,1.9,3.9,5.4,Punjab,6 months,3.3
+415,860285,100772,12492,4090,688,Facebook,15 to 25,Others,8.5,Cosmetics,94354,2.1,5.1,7.4,Tamil Nadu,1 year,4.9
+416,955589,298619,39328,7465,194,Facebook,25 to 35,Female,9.8,Clothing,140013,6.6,3.2,5.7,Tamil Nadu,6 months,5.3
+417,364940,188039,41425,4181,939,Instagram,25 to 35,Female,1.4,Clothing,75666,5.4,2.6,8.4,Gujarat,6 months,4.0
+418,755824,104770,49262,7954,1355,Instagram,35 to 45,Others,4.3,Cosmetics,110696,3.4,2.4,1.8,Punjab,1 year,3.3
+419,708066,478722,7994,329,3706,YouTube,15 to 25,Female,8.4,Accessories,96861,3.8,2.0,4.6,Rajasthan,2 months,3.8
+420,467824,149392,25094,319,686,Facebook,15 to 25,Female,3.3,Accessories,74845,5.3,4.0,9.4,Rajasthan,2 years,4.7
+421,821978,133350,6301,9994,2684,YouTube,15 to 25,Female,9.6,Clothing,95213,4.7,1.9,6.3,Sikkim,6 months,4.6
+422,556268,457971,26921,585,1786,YouTube,35 to 45,Female,5.2,Accessories,51279,8.1,3.9,2.4,Rajasthan,2 months,4.0
+423,645380,171816,5967,4366,361,Facebook,15 to 25,Male,7.5,Cosmetics,81096,1.2,8.6,1.5,Tamil Nadu,3 months,3.8
+424,398030,150142,45425,1013,1067,Instagram,15 to 25,Others,7.3,Cosmetics,88987,9.6,9.0,9.8,Tamil Nadu,1 month,7.7
+425,138038,27653,9102,7045,3501,Facebook,25 to 35,Male,4.6,Clothing,115755,4.2,5.7,4.5,Tamil Nadu,2 years,4.5
+426,668285,320778,2713,6110,1279,Facebook,15 to 25,Others,5.4,Accessories,113566,9.0,5.3,7.7,Punjab,6 months,5.5
+427,751555,196503,23080,1193,2949,YouTube,35 to 45,Female,2.1,Cosmetics,138828,6.9,2.6,9.6,Tamil Nadu,6 months,4.5
+428,441945,260980,38660,1554,1523,Instagram,5 to 15,Male,2.6,Accessories,149253,9.5,2.6,5.6,Gujarat,2 months,4.4
+429,963994,456820,44873,6470,4176,Facebook,25 to 35,Female,9.8,Clothing,77067,9.7,9.8,7.8,Gujarat,6 months,7.6
+430,70453,438067,7550,9696,1848,Facebook,35 to 45,Female,5.5,Clothing,62798,5.4,5.2,3.1,Rajasthan,6 months,3.9
+431,245385,218117,30167,5162,2229,Instagram,15 to 25,Others,10.0,Accessories,119935,5.5,6.1,8.5,Rajasthan,6 months,6.3
+432,348940,326407,10819,4906,3700,Facebook,35 to 45,Female,9.0,Clothing,101104,4.7,2.8,7.9,Sikkim,3 months,4.9
+433,511453,194048,38261,5785,3744,Facebook,5 to 15,Male,2.3,Accessories,134464,4.1,2.1,7.5,Punjab,6 months,3.6
+434,849560,465480,28596,7104,4711,Facebook,5 to 15,Female,5.5,Clothing,148841,3.1,8.6,7.4,Punjab,1 month,5.0
+435,927903,491180,47317,3138,245,Instagram,5 to 15,Male,4.1,Accessories,115086,3.6,7.2,1.2,Gujarat,1 year,3.4
+436,577142,271464,25224,2231,1671,Facebook,5 to 15,Others,1.4,Clothing,135160,6.5,4.1,5.6,Sikkim,6 months,3.7
+437,781125,228826,15813,535,2684,YouTube,25 to 35,Male,9.9,Accessories,143107,8.2,6.5,8.1,Punjab,1 year,6.7
+438,383123,237874,11063,716,1645,Instagram,35 to 45,Female,3.6,Accessories,50525,2.1,6.8,5.7,Kerala,1 month,3.7
+439,974068,268301,17827,799,1505,Facebook,25 to 35,Male,7.5,Accessories,120951,6.9,6.5,9.8,Sikkim,3 months,6.3
+440,361899,256749,31281,6522,3460,Facebook,25 to 35,Male,8.7,Clothing,104893,1.5,3.5,3.7,Rajasthan,1 month,3.7
+441,197408,396862,31048,6418,2005,Facebook,15 to 25,Others,5.0,Cosmetics,51847,7.1,2.8,7.3,Gujarat,6 months,4.6
+442,429839,137288,27766,6920,731,YouTube,15 to 25,Others,8.1,Cosmetics,82537,6.3,2.7,2.9,Sikkim,3 months,4.4
+443,748358,21635,23982,4973,2277,YouTube,15 to 25,Female,8.4,Clothing,61556,5.3,3.1,2.6,Gujarat,6 months,6.1
+444,981161,107309,28041,364,2098,Facebook,5 to 15,Male,4.0,Accessories,70200,4.7,9.0,6.8,Tamil Nadu,1 month,5.4
+445,640787,56484,43818,1154,2015,YouTube,15 to 25,Male,2.9,Accessories,126756,5.3,5.2,4.3,Maharashtra,2 months,5.1
+446,793323,467342,43263,8488,131,Facebook,25 to 35,Male,3.6,Cosmetics,139407,4.5,2.6,6.7,Kerala,2 months,3.7
+447,262886,452995,14935,7997,2037,YouTube,35 to 45,Others,5.4,Accessories,75795,5.6,2.3,8.2,Maharashtra,6 months,4.4
+448,793821,155810,24529,6251,3655,Instagram,35 to 45,Male,3.8,Clothing,143794,7.0,1.7,5.6,Tamil Nadu,1 month,3.9
+449,367952,107987,25624,9384,1535,YouTube,15 to 25,Female,2.2,Cosmetics,140727,3.6,8.9,1.6,Kerala,1 month,3.7
+450,220156,11469,30638,9529,1753,YouTube,25 to 35,Others,7.3,Accessories,89469,9.5,7.2,9.2,Maharashtra,3 months,12.0
+451,65707,269539,14931,2297,3346,YouTube,5 to 15,Female,2.6,Clothing,137094,7.1,5.2,7.9,Sikkim,2 months,4.7
+452,440864,342380,31243,7996,3873,Facebook,25 to 35,Others,1.6,Clothing,60105,4.9,6.8,6.5,Punjab,6 months,4.1
+453,815997,455749,38958,7037,242,Facebook,5 to 15,Female,6.5,Cosmetics,52877,9.6,2.3,7.3,Tamil Nadu,3 months,5.3
+454,359703,132942,23203,6701,2836,YouTube,5 to 15,Female,6.9,Cosmetics,107838,7.6,1.3,7.0,Gujarat,2 years,4.9
+455,655281,189859,40801,5818,4343,Instagram,25 to 35,Others,3.9,Accessories,88809,7.5,6.8,5.2,Sikkim,6 months,5.1
+456,843536,177428,37085,100,3287,Instagram,15 to 25,Female,6.4,Cosmetics,105056,2.7,9.0,8.5,Tamil Nadu,3 months,5.7
+457,520589,175705,1440,1080,316,YouTube,5 to 15,Others,8.0,Cosmetics,54118,8.4,2.1,8.7,Rajasthan,2 years,5.5
+458,359465,158516,23074,1638,4000,Facebook,5 to 15,Male,5.2,Accessories,127623,1.0,4.6,9.6,Maharashtra,2 years,4.4
+459,456936,113019,41918,7855,394,YouTube,5 to 15,Male,4.3,Cosmetics,80408,5.6,5.9,2.1,Rajasthan,2 years,4.3
+460,155876,182790,2337,5318,3483,Facebook,5 to 15,Male,5.1,Accessories,113791,1.9,6.1,4.1,Sikkim,1 year,3.5
+461,111355,188190,16377,5407,418,Instagram,5 to 15,Male,7.1,Accessories,96393,3.9,3.5,3.0,Maharashtra,2 years,3.7
+462,515497,277207,2612,6756,2161,Instagram,15 to 25,Female,8.6,Clothing,129739,2.4,8.3,4.1,Sikkim,1 year,4.7
+463,866494,421511,28087,1915,2706,Facebook,15 to 25,Others,1.7,Clothing,90645,6.5,5.2,5.2,Sikkim,2 months,3.9
+464,168169,406866,39753,3512,1311,YouTube,15 to 25,Female,4.6,Accessories,72763,9.7,8.7,7.4,Punjab,1 year,6.3
+465,694862,55401,33681,3166,4794,Instagram,5 to 15,Others,4.4,Clothing,132352,4.4,7.4,6.2,Kerala,2 months,5.7
+466,666127,255808,29474,1641,607,Instagram,25 to 35,Others,9.7,Cosmetics,139927,4.4,4.5,5.2,Kerala,2 months,5.0
+467,69989,446590,40197,6230,1856,Instagram,15 to 25,Male,3.9,Cosmetics,111937,2.0,9.1,4.3,Maharashtra,6 months,4.0
+468,128236,258569,47342,1085,4895,Instagram,35 to 45,Others,4.5,Accessories,120862,3.2,7.1,9.6,Tamil Nadu,6 months,5.2
+469,782413,163928,38416,1114,1165,Instagram,35 to 45,Male,1.2,Clothing,89253,7.0,6.9,5.0,Kerala,6 months,4.5
+470,166881,282283,1939,4671,872,YouTube,5 to 15,Female,5.1,Accessories,79733,3.3,5.7,7.6,Maharashtra,2 years,4.4
+471,801889,440292,41954,4081,264,Facebook,15 to 25,Others,5.7,Cosmetics,138077,6.9,2.7,4.9,Tamil Nadu,3 months,4.2
+472,787231,59013,37915,9623,1967,YouTube,25 to 35,Female,7.9,Cosmetics,139584,2.3,8.0,8.0,Tamil Nadu,6 months,6.5
+473,739681,442154,23587,7718,2030,Instagram,5 to 15,Female,2.8,Accessories,109992,8.9,1.1,4.6,Sikkim,3 months,3.6
+474,552958,297939,9956,7589,3817,Instagram,15 to 25,Others,7.1,Cosmetics,64118,4.6,7.0,7.5,Tamil Nadu,2 months,5.3
+475,447174,479078,7650,7048,1329,YouTube,35 to 45,Others,8.2,Accessories,53462,4.6,1.4,4.9,Maharashtra,1 month,3.9
+476,951361,34651,39644,5897,1410,Instagram,5 to 15,Male,7.5,Clothing,95134,6.2,1.3,9.1,Maharashtra,1 month,7.1
+477,628716,89989,30480,5986,4559,Instagram,15 to 25,Male,7.6,Clothing,99346,7.9,5.9,4.5,Rajasthan,1 month,5.9
+478,818792,410434,25533,4286,1603,Facebook,15 to 25,Others,6.6,Cosmetics,86597,7.8,5.8,6.4,Gujarat,6 months,5.4
+479,952283,56593,5520,1813,2556,Facebook,5 to 15,Male,4.7,Accessories,121861,4.5,5.9,8.7,Kerala,3 months,5.0
+480,742596,62370,46947,9618,3738,Facebook,25 to 35,Male,7.6,Clothing,77360,5.8,7.4,2.3,Rajasthan,2 years,6.1
+481,517774,34581,11666,7878,1853,Instagram,5 to 15,Female,3.5,Accessories,101117,8.8,8.9,5.0,Sikkim,2 months,5.9
+482,678488,144910,8614,7270,3715,Instagram,5 to 15,Female,4.7,Accessories,117275,8.0,2.6,5.4,Sikkim,2 months,4.3
+483,942426,390939,1361,7041,2915,Facebook,5 to 15,Male,9.4,Clothing,105915,7.5,4.2,1.2,Gujarat,2 months,4.5
+484,128068,115424,12961,3407,963,Instagram,25 to 35,Male,2.0,Cosmetics,135421,6.8,6.5,1.8,Maharashtra,1 year,3.6
+485,873683,267401,1630,324,1619,Facebook,15 to 25,Others,7.7,Clothing,140652,6.3,1.9,4.6,Gujarat,3 months,4.1
+486,663822,478214,48612,6189,206,Instagram,25 to 35,Male,9.0,Accessories,117354,8.5,8.4,2.8,Tamil Nadu,6 months,5.9
+487,541007,87018,22298,9559,824,Instagram,25 to 35,Others,6.6,Cosmetics,118078,2.0,9.0,6.8,Rajasthan,1 month,5.4
+488,840107,180327,5766,8697,4673,YouTube,35 to 45,Female,5.1,Cosmetics,98853,7.3,8.4,8.2,Kerala,1 month,5.9
+489,452386,65472,43347,4718,3405,Facebook,35 to 45,Male,1.4,Cosmetics,114754,2.3,5.9,2.2,Rajasthan,3 months,3.7
+490,615217,232588,20453,2143,1143,Instagram,5 to 15,Female,2.3,Clothing,119641,3.2,1.4,8.7,Punjab,3 months,3.3
+491,301094,156067,40993,4652,4893,YouTube,15 to 25,Others,8.1,Accessories,79253,1.9,3.1,5.4,Tamil Nadu,1 year,4.2
+492,299960,60337,17070,2033,4798,YouTube,35 to 45,Female,3.6,Clothing,50773,6.5,1.6,1.5,Rajasthan,6 months,3.2
+493,675980,293440,7519,3468,1102,Facebook,35 to 45,Male,9.3,Cosmetics,60212,2.7,9.8,5.4,Sikkim,6 months,5.5
+494,899200,233809,31916,9770,4373,Facebook,35 to 45,Female,7.7,Clothing,137413,8.8,8.7,4.9,Rajasthan,6 months,6.3
+495,702776,399343,33774,3460,157,Facebook,5 to 15,Male,9.2,Cosmetics,63751,5.6,8.9,7.1,Sikkim,6 months,6.3
+496,849987,494848,8172,6235,2064,Facebook,5 to 15,Male,8.4,Accessories,137034,4.0,2.7,9.2,Maharashtra,3 months,4.9
+497,999388,146451,29350,591,2707,YouTube,25 to 35,Female,4.7,Cosmetics,148996,8.7,2.3,9.8,Gujarat,2 months,5.5
+498,934885,464300,8065,3336,4717,Instagram,35 to 45,Others,4.4,Accessories,145985,3.5,9.6,3.7,Kerala,2 months,4.3
+499,164570,49318,12988,2668,2012,Facebook,15 to 25,Others,3.2,Cosmetics,91344,2.9,8.7,4.8,Kerala,2 months,4.4
+500,362863,265334,38103,1304,662,Instagram,5 to 15,Others,2.8,Cosmetics,120595,6.8,8.4,7.8,Tamil Nadu,1 month,5.4
+501,77783,432741,47076,8077,1613,Facebook,25 to 35,Female,5.4,Cosmetics,82676,7.5,5.4,5.3,Rajasthan,2 years,4.9
+502,628566,459994,28012,2806,1368,Instagram,35 to 45,Female,7.0,Cosmetics,81907,3.6,3.8,3.2,Gujarat,6 months,3.6
+503,801308,338640,32244,9785,2571,Facebook,35 to 45,Male,6.6,Accessories,69106,3.4,1.6,4.3,Maharashtra,2 months,3.4
+504,438615,56440,32913,5346,4905,Facebook,5 to 15,Others,2.1,Cosmetics,65067,2.3,7.6,8.2,Maharashtra,1 month,5.2
+505,358180,289973,29833,4940,83,Facebook,5 to 15,Female,6.0,Cosmetics,56866,5.6,9.3,2.2,Sikkim,1 month,4.8
+506,975438,358321,2118,813,3254,YouTube,5 to 15,Male,7.9,Clothing,123769,8.9,1.7,3.1,Rajasthan,6 months,4.3
+507,291720,292447,48985,5979,2711,YouTube,35 to 45,Others,4.8,Cosmetics,56321,9.2,6.7,7.0,Gujarat,1 year,5.9
+508,66958,129715,4309,3893,4319,Facebook,25 to 35,Male,6.4,Accessories,126060,3.5,7.4,5.9,Kerala,2 years,4.7
+509,672196,391602,41386,755,1978,YouTube,15 to 25,Female,5.1,Clothing,99216,7.0,9.9,9.8,Rajasthan,3 months,6.6
+510,351570,143866,9690,4343,3652,Facebook,15 to 25,Male,9.6,Accessories,143108,3.8,8.7,4.9,Punjab,6 months,5.5
+511,726703,400220,29606,9214,706,Instagram,15 to 25,Female,2.5,Clothing,138104,3.9,3.4,3.1,Tamil Nadu,2 months,2.7
+512,373192,292025,8878,7096,3472,YouTube,25 to 35,Male,9.5,Clothing,90027,8.9,5.8,7.3,Maharashtra,1 year,6.4
+513,887279,24989,17674,2410,1744,Facebook,35 to 45,Male,1.9,Cosmetics,72078,4.1,3.2,5.5,Gujarat,2 years,4.4
+514,951434,258464,41120,4926,3985,Facebook,35 to 45,Female,6.0,Accessories,101660,7.1,3.6,5.7,Rajasthan,1 year,4.8
+515,79376,70802,46851,1247,1515,YouTube,15 to 25,Others,4.8,Clothing,92001,3.0,7.3,8.7,Kerala,6 months,6.1
+516,556808,80996,29709,7222,1562,Facebook,15 to 25,Others,9.9,Cosmetics,133122,8.3,8.6,4.1,Tamil Nadu,1 month,6.9
+517,535154,300944,42443,2512,2125,Facebook,25 to 35,Female,2.1,Cosmetics,78925,3.2,1.8,5.1,Sikkim,2 years,2.7
+518,560392,195527,39386,8962,736,YouTube,15 to 25,Female,1.6,Accessories,111501,8.4,6.6,1.4,Punjab,3 months,4.0
+519,252073,17772,47247,1846,3128,YouTube,5 to 15,Male,3.3,Accessories,108738,5.7,5.3,4.5,Maharashtra,3 months,9.1
+520,159652,331782,26554,9320,224,Facebook,35 to 45,Female,3.4,Accessories,53550,1.4,9.6,8.6,Kerala,2 years,4.8
+521,55513,423000,29793,3087,1072,YouTube,15 to 25,Male,1.2,Clothing,67038,6.6,2.1,4.3,Punjab,3 months,3.0
+522,640448,498535,30709,2570,513,Instagram,5 to 15,Female,1.7,Cosmetics,69136,3.4,6.4,1.6,Kerala,6 months,2.7
+523,237821,425436,13212,4977,2921,Facebook,25 to 35,Female,6.2,Accessories,143171,4.2,1.1,7.1,Maharashtra,3 months,3.8
+524,62486,406003,5501,576,4217,YouTube,25 to 35,Others,9.0,Accessories,100714,8.0,7.7,9.5,Maharashtra,1 month,6.9
+525,503626,496306,11004,1107,1125,Facebook,15 to 25,Male,7.0,Accessories,148821,4.7,4.3,7.0,Gujarat,2 years,4.6
+526,412145,404184,17195,1039,2305,Facebook,15 to 25,Female,7.5,Cosmetics,55581,8.5,5.1,8.0,Tamil Nadu,2 months,5.9
+527,243574,97436,10449,8739,1291,YouTube,5 to 15,Others,1.6,Accessories,135489,2.8,2.3,9.3,Rajasthan,3 months,3.4
+528,199896,153372,6490,2280,1417,Facebook,15 to 25,Others,1.1,Accessories,109207,9.7,6.0,6.3,Punjab,1 month,4.7
+529,324998,53853,48363,3491,3585,Instagram,25 to 35,Male,8.4,Clothing,145676,2.6,9.4,9.9,Gujarat,3 months,7.9
+530,170157,345569,15665,7899,2652,Instagram,35 to 45,Female,7.6,Accessories,72430,1.4,4.9,4.4,Rajasthan,1 month,3.8
+531,790044,38789,27475,3202,924,YouTube,15 to 25,Others,5.0,Accessories,73225,6.1,6.7,1.0,Gujarat,3 months,5.2
+532,102204,307818,27553,1483,3727,Facebook,35 to 45,Male,3.8,Accessories,90132,7.8,5.6,5.5,Maharashtra,6 months,4.7
+533,802524,149452,32563,7722,2049,Instagram,15 to 25,Male,6.1,Accessories,141300,6.2,5.5,7.7,Sikkim,1 month,5.5
+534,209535,415022,40627,4352,1383,Instagram,5 to 15,Male,5.7,Clothing,90089,4.1,3.0,9.7,Gujarat,2 months,4.7
+535,729084,119939,9648,8809,3140,YouTube,5 to 15,Female,9.8,Clothing,63150,6.8,7.5,8.0,Tamil Nadu,1 month,6.6
+536,295414,31850,44506,8132,1813,YouTube,15 to 25,Others,5.9,Clothing,134778,9.4,9.6,6.6,Tamil Nadu,6 months,9.1
+537,262340,299733,25826,5334,2350,Facebook,5 to 15,Female,1.2,Cosmetics,62259,7.7,9.3,2.1,Punjab,1 year,4.2
+538,231958,215376,13203,6042,428,Facebook,25 to 35,Female,9.1,Clothing,52028,2.8,1.4,5.7,Tamil Nadu,1 month,3.9
+539,673221,136328,9458,9802,1304,Facebook,15 to 25,Male,2.1,Accessories,98750,3.5,7.4,7.2,Gujarat,2 years,4.2
+540,140438,395270,9355,7715,3193,Instagram,25 to 35,Female,8.1,Cosmetics,107543,8.8,6.6,7.6,Gujarat,3 months,6.3
+541,83595,481257,23786,577,2835,YouTube,15 to 25,Others,4.6,Cosmetics,53756,8.4,1.2,5.1,Tamil Nadu,2 months,4.0
+542,217220,239120,24923,2922,4949,Instagram,5 to 15,Male,4.0,Accessories,81224,3.0,10.0,1.3,Kerala,1 month,3.9
+543,647023,304664,10873,3798,4232,Facebook,15 to 25,Male,1.2,Accessories,63523,7.9,9.9,8.2,Tamil Nadu,1 month,5.5
+544,127800,118982,8083,6148,2030,Instagram,15 to 25,Male,2.1,Cosmetics,94561,7.2,7.2,4.2,Punjab,6 months,4.3
+545,777531,37510,37049,1507,2469,YouTube,5 to 15,Others,5.4,Accessories,119490,7.1,6.4,2.4,Gujarat,2 months,6.2
+546,352190,148915,34129,6923,843,YouTube,25 to 35,Others,9.1,Accessories,90512,4.1,9.9,2.2,Punjab,6 months,5.5
+547,148834,395398,40038,3998,3809,Instagram,15 to 25,Others,6.4,Clothing,136698,6.7,5.9,1.2,Punjab,3 months,4.2
+548,546989,286170,20402,5895,3830,Instagram,25 to 35,Others,4.4,Cosmetics,101636,4.7,6.3,2.6,Rajasthan,3 months,3.7
+549,187770,111011,23782,3436,144,Instagram,25 to 35,Male,4.4,Accessories,101433,9.0,7.6,9.6,Tamil Nadu,6 months,6.5
+550,211532,31060,8076,6593,688,Instagram,5 to 15,Male,7.3,Clothing,81839,4.8,9.7,4.5,Gujarat,6 months,5.8
+551,402424,376067,4000,6514,3320,YouTube,5 to 15,Others,2.8,Cosmetics,59128,9.2,1.9,9.0,Tamil Nadu,1 month,4.6
+552,868962,63362,23175,2810,4660,Facebook,5 to 15,Others,8.7,Clothing,61814,2.1,2.0,3.6,Punjab,3 months,4.0
+553,128257,196143,10911,5768,714,YouTube,25 to 35,Female,9.0,Clothing,147979,7.9,1.8,8.8,Gujarat,2 months,5.6
+554,154478,168192,10584,8686,760,Instagram,35 to 45,Female,1.4,Accessories,127396,9.0,8.4,7.1,Maharashtra,3 months,5.3
+555,988750,40401,27889,803,1689,YouTube,25 to 35,Others,3.8,Cosmetics,84196,2.9,3.8,5.8,Sikkim,2 years,4.6
+556,613515,149782,40979,7097,4495,Instagram,35 to 45,Male,1.0,Cosmetics,70648,6.6,4.5,9.6,Kerala,6 months,4.9
+557,140757,459338,44919,6124,731,Facebook,15 to 25,Female,7.2,Cosmetics,145884,6.2,8.3,1.3,Sikkim,1 month,4.8
+558,576867,61411,37608,5411,4112,Facebook,25 to 35,Male,9.4,Accessories,133917,5.3,8.6,8.3,Gujarat,6 months,7.5
+559,334580,452778,19261,2533,2851,Instagram,15 to 25,Female,7.6,Clothing,114192,4.3,1.0,2.1,Gujarat,1 year,3.1
+560,99451,471038,36936,7586,3377,YouTube,15 to 25,Male,4.5,Cosmetics,70836,4.4,1.2,1.0,Kerala,2 years,2.4
+561,304515,14324,14518,7500,1828,Facebook,15 to 25,Male,1.3,Cosmetics,94133,3.6,4.0,3.0,Gujarat,3 months,4.4
+562,706133,186913,47661,1249,3922,Instagram,25 to 35,Female,1.4,Cosmetics,85620,2.1,5.3,2.4,Gujarat,6 months,2.7
+563,517459,143926,34864,4371,1498,Instagram,35 to 45,Others,1.4,Cosmetics,62006,6.5,5.2,2.8,Rajasthan,1 year,3.7
+564,759784,247989,19942,9857,787,YouTube,15 to 25,Others,7.7,Accessories,132154,7.5,9.6,3.0,Punjab,2 months,5.7
+565,311563,101466,14709,4563,1274,Facebook,15 to 25,Male,3.3,Cosmetics,65716,8.2,5.4,4.7,Gujarat,2 years,4.6
+566,965366,242557,47011,1499,970,Facebook,5 to 15,Others,3.7,Cosmetics,56136,2.6,5.9,5.8,Maharashtra,3 months,4.0
+567,185912,420223,23897,165,776,YouTube,5 to 15,Others,4.6,Cosmetics,67993,8.9,6.6,2.2,Kerala,2 years,4.6
+568,212979,337292,33358,3515,892,YouTube,35 to 45,Male,8.1,Cosmetics,75127,6.2,7.0,1.7,Punjab,3 months,4.8
+569,454261,435689,33711,6039,2761,Facebook,35 to 45,Others,7.3,Clothing,58847,8.8,6.9,9.9,Punjab,3 months,6.7
+570,202131,279913,36845,6585,3911,Facebook,35 to 45,Male,9.9,Cosmetics,61559,3.7,6.3,3.9,Sikkim,1 year,5.0
+571,78163,216180,1509,6715,3011,Facebook,15 to 25,Others,3.6,Accessories,101288,6.0,7.6,6.2,Sikkim,2 months,4.7
+572,275609,36046,43342,1482,4197,YouTube,5 to 15,Female,3.9,Cosmetics,123687,3.1,9.6,7.8,Sikkim,2 months,7.3
+573,244104,327289,1069,7241,1870,Facebook,5 to 15,Female,3.5,Accessories,108148,5.3,1.4,4.4,Sikkim,6 months,2.9
+574,144388,365745,21208,2533,4478,Instagram,5 to 15,Male,1.2,Clothing,108000,9.6,5.1,4.4,Tamil Nadu,2 years,4.2
+575,641514,112995,40303,1994,1239,Facebook,25 to 35,Others,8.7,Cosmetics,101281,3.7,3.6,2.4,Sikkim,2 years,4.4
+576,588307,288412,14200,8441,3500,Facebook,5 to 15,Others,3.7,Clothing,97108,1.4,7.5,7.6,Kerala,6 months,4.1
+577,222111,187533,14947,2958,1945,Instagram,35 to 45,Female,9.5,Cosmetics,117928,1.7,6.7,8.3,Tamil Nadu,3 months,5.4
+578,394197,459420,28097,4366,1043,Instagram,25 to 35,Male,2.4,Clothing,107673,8.4,3.3,1.9,Maharashtra,1 year,3.3
+579,527094,88595,36772,9328,4360,YouTube,15 to 25,Female,9.1,Clothing,53569,5.5,5.0,8.5,Maharashtra,1 year,6.5
+580,760453,283566,15384,7768,1700,Facebook,35 to 45,Female,9.6,Clothing,83194,9.9,8.1,9.7,Gujarat,2 years,7.6
+581,612782,108268,47381,4313,2050,Instagram,5 to 15,Female,2.9,Cosmetics,57645,3.5,8.3,1.7,Gujarat,1 year,4.2
+582,154027,45419,36360,7930,1723,YouTube,35 to 45,Others,7.4,Clothing,122689,7.3,4.9,2.0,Gujarat,1 month,5.9
+583,640401,84511,46891,8041,430,YouTube,15 to 25,Male,7.2,Cosmetics,136130,5.6,5.1,6.2,Kerala,6 months,5.9
+584,617896,158597,34204,6191,1432,Instagram,25 to 35,Female,9.1,Accessories,97605,7.8,8.4,3.4,Sikkim,3 months,6.2
+585,842588,468021,44987,3757,4907,Facebook,25 to 35,Female,3.4,Accessories,103415,6.7,1.3,3.9,Rajasthan,1 month,3.3
+586,816437,422381,13215,9035,2219,Facebook,5 to 15,Female,1.9,Accessories,67643,2.4,5.0,9.9,Rajasthan,6 months,3.9
+587,754496,485898,9380,5607,3672,Instagram,5 to 15,Female,9.8,Clothing,120713,5.9,8.4,2.9,Punjab,2 years,5.4
+588,163589,448038,48694,7709,1022,YouTube,35 to 45,Male,4.5,Accessories,88238,1.9,5.3,5.2,Gujarat,3 months,3.6
+589,675497,101494,19046,1648,1454,Instagram,25 to 35,Male,4.0,Clothing,137573,10.0,2.4,4.0,Rajasthan,2 months,4.5
+590,82818,27193,45324,2653,471,YouTube,35 to 45,Others,8.8,Cosmetics,70778,8.8,2.5,1.2,Maharashtra,2 months,7.6
+591,709200,407882,47169,7433,1510,YouTube,15 to 25,Others,9.7,Cosmetics,61666,7.0,9.9,6.2,Kerala,2 years,6.8
+592,560749,20320,47691,5703,3527,Facebook,25 to 35,Female,1.2,Accessories,116037,4.4,3.9,3.9,Sikkim,2 years,7.4
+593,94391,375899,26206,9196,2951,Instagram,35 to 45,Others,3.8,Clothing,75191,9.9,9.5,5.2,Tamil Nadu,1 month,5.8
+594,431238,90810,1484,3088,1695,YouTube,35 to 45,Others,1.3,Accessories,134758,5.2,2.6,1.5,Rajasthan,2 months,2.2
+595,826336,419007,31971,1782,2428,Facebook,25 to 35,Female,8.4,Accessories,101134,9.5,3.8,6.0,Sikkim,1 year,5.7
+596,766088,365471,43676,876,1366,Instagram,15 to 25,Male,4.1,Cosmetics,64689,7.2,4.3,3.3,Gujarat,1 year,4.0
+597,396439,28415,32628,2618,3448,Facebook,35 to 45,Others,8.1,Accessories,54818,8.9,9.2,4.0,Tamil Nadu,2 years,8.3
+598,129853,189853,16182,7831,573,Facebook,15 to 25,Male,2.5,Accessories,136188,6.8,3.8,3.3,Tamil Nadu,1 year,3.5
+599,447792,48729,22985,7767,2244,YouTube,35 to 45,Female,4.0,Accessories,103583,6.0,1.2,7.7,Kerala,2 months,4.7
+600,679720,333615,15091,171,1924,Facebook,5 to 15,Female,2.7,Cosmetics,135061,4.9,6.7,6.5,Rajasthan,2 months,4.3
+601,311948,196064,47151,9132,543,YouTube,25 to 35,Male,2.8,Clothing,90147,9.4,4.2,7.1,Rajasthan,1 month,5.2
+602,67725,50896,24155,4484,2443,Facebook,15 to 25,Female,4.6,Cosmetics,50406,3.5,1.2,3.7,Maharashtra,1 month,3.5
+603,795415,365502,31165,5547,3579,Instagram,35 to 45,Female,2.4,Clothing,129615,6.8,9.6,2.2,Kerala,6 months,4.4
+604,366378,131524,48143,9860,3729,YouTube,15 to 25,Male,2.0,Cosmetics,57458,1.5,8.9,1.9,Rajasthan,1 year,3.6
+605,961753,134428,13971,5700,2994,Facebook,15 to 25,Others,3.1,Accessories,60832,6.9,7.6,5.8,Rajasthan,3 months,4.9
+606,803112,152901,31691,583,3539,Facebook,5 to 15,Male,4.9,Cosmetics,94866,6.3,1.9,4.7,Tamil Nadu,2 years,4.0
+607,348183,18586,43121,7883,2665,Facebook,35 to 45,Male,2.8,Cosmetics,129199,2.5,9.7,4.7,Kerala,3 months,8.6
+608,210561,112416,46656,6595,2213,Instagram,25 to 35,Female,9.5,Accessories,72760,7.0,2.2,8.0,Punjab,1 year,6.2
+609,104089,151297,47642,5263,1302,YouTube,35 to 45,Female,4.1,Accessories,94332,2.5,8.9,6.0,Punjab,1 year,4.9
+610,803225,155976,7329,9597,3952,Facebook,5 to 15,Male,5.6,Clothing,52335,9.2,3.1,8.3,Punjab,2 months,5.3
+611,465515,87089,47990,6232,4390,Facebook,15 to 25,Male,4.9,Cosmetics,60465,7.4,7.7,9.0,Punjab,1 year,6.9
+612,871510,480731,10921,7596,4202,Facebook,25 to 35,Female,3.2,Clothing,84319,6.8,8.3,1.9,Kerala,1 month,4.1
+613,410461,240406,27128,3415,2271,Facebook,5 to 15,Female,4.2,Accessories,129238,1.7,4.2,2.8,Punjab,1 month,2.8
+614,477272,163414,29018,8737,128,Instagram,5 to 15,Others,5.1,Clothing,53790,6.3,5.7,8.5,Sikkim,2 years,5.5
+615,657455,233396,28542,8835,4836,YouTube,5 to 15,Others,4.1,Clothing,58234,4.9,9.3,7.4,Punjab,3 months,5.4
+616,935378,403950,42297,9055,2514,YouTube,35 to 45,Female,3.1,Accessories,91558,9.3,7.8,7.8,Gujarat,6 months,5.8
+617,264077,45937,27122,8676,720,YouTube,25 to 35,Others,1.8,Accessories,83418,1.8,8.4,4.7,Maharashtra,2 years,4.5
+618,957612,90579,15437,2310,3089,YouTube,15 to 25,Others,2.7,Accessories,56518,6.5,1.8,4.7,Kerala,2 years,3.5
+619,275372,269716,49670,8891,3795,Instagram,5 to 15,Male,4.7,Cosmetics,132793,6.6,8.6,7.5,Rajasthan,3 months,5.8
+620,124195,384956,31041,552,2468,Instagram,5 to 15,Male,5.9,Cosmetics,97011,5.8,7.2,9.6,Maharashtra,2 months,5.9
+621,118223,357919,4337,4205,1256,Instagram,25 to 35,Others,7.9,Accessories,140982,6.0,3.0,4.7,Maharashtra,1 month,4.3
+622,319242,315793,48581,9768,4855,Facebook,5 to 15,Others,2.1,Cosmetics,60453,4.0,9.5,8.2,Tamil Nadu,1 month,5.1
+623,329213,415115,24554,7337,1642,YouTube,25 to 35,Others,8.8,Cosmetics,52778,4.7,3.0,1.6,Punjab,1 year,3.7
+624,749783,380068,10798,5415,3330,Facebook,25 to 35,Female,2.6,Clothing,128290,6.4,6.3,2.2,Gujarat,1 month,3.6
+625,506136,340884,38535,7438,533,YouTube,35 to 45,Male,4.1,Clothing,97176,1.9,3.5,4.5,Tamil Nadu,3 months,3.0
+626,933766,441970,12707,791,2267,YouTube,15 to 25,Others,6.7,Clothing,95582,5.1,7.4,1.6,Kerala,6 months,4.2
+627,328753,364322,47831,4453,4690,YouTube,25 to 35,Male,9.3,Cosmetics,73498,1.2,6.8,6.6,Tamil Nadu,1 month,5.0
+628,323797,194094,38944,3119,4146,Facebook,15 to 25,Female,7.9,Accessories,51567,5.8,5.5,2.5,Punjab,2 years,4.7
+629,119180,108059,31135,9308,296,Facebook,25 to 35,Female,7.4,Clothing,55747,8.2,5.7,4.1,Gujarat,6 months,5.7
+630,557573,48023,45229,931,2986,Instagram,15 to 25,Female,4.1,Cosmetics,138942,2.6,7.2,1.3,Gujarat,6 months,4.9
+631,615257,305833,26148,3704,3106,YouTube,5 to 15,Others,5.0,Clothing,106598,7.2,5.6,5.5,Rajasthan,3 months,4.8
+632,624552,303718,20585,586,4474,Instagram,25 to 35,Male,7.5,Accessories,55112,2.7,2.5,8.5,Gujarat,2 years,4.4
+633,778978,69777,25391,7455,4648,Facebook,25 to 35,Female,5.8,Accessories,65754,5.7,5.7,5.9,Sikkim,6 months,5.3
+634,154869,461351,41754,9526,4526,YouTube,25 to 35,Male,1.6,Accessories,100720,2.2,3.5,8.4,Rajasthan,1 year,3.3
+635,181338,83048,48454,4892,1482,Instagram,15 to 25,Male,6.5,Clothing,97591,5.8,5.7,9.4,Rajasthan,6 months,6.6
+636,266783,456957,35238,4949,2245,YouTube,15 to 25,Others,7.0,Clothing,71069,1.1,4.7,8.2,Rajasthan,1 year,4.4
+637,185488,334807,33937,6291,2848,YouTube,25 to 35,Male,6.1,Accessories,109918,2.1,4.5,1.4,Rajasthan,1 month,3.0
+638,76597,354443,7559,2194,4765,Facebook,5 to 15,Female,7.7,Accessories,82245,7.9,6.8,10.0,Tamil Nadu,6 months,6.5
+639,792949,250920,7745,6031,1482,Instagram,35 to 45,Others,2.2,Accessories,111535,8.4,1.9,7.9,Rajasthan,3 months,4.1
+640,801689,169480,4212,3126,1157,Facebook,15 to 25,Male,6.2,Clothing,107295,8.9,4.0,9.3,Sikkim,3 months,5.7
+641,834902,416117,2995,8447,1537,YouTube,25 to 35,Female,2.3,Accessories,72596,3.9,9.3,8.3,Rajasthan,1 month,4.8
+642,152270,391294,23945,3125,3002,Instagram,15 to 25,Male,1.3,Accessories,59736,3.0,9.9,9.1,Rajasthan,3 months,4.8
+643,518036,22004,37232,3000,2961,Facebook,35 to 45,Female,6.9,Cosmetics,87800,1.8,5.5,5.0,Tamil Nadu,2 months,7.2
+644,205156,221660,33892,6816,4686,Facebook,35 to 45,Male,8.2,Clothing,56021,5.0,2.5,9.6,Rajasthan,1 year,5.4
+645,555120,144080,29913,1674,1536,YouTube,15 to 25,Female,3.9,Cosmetics,99164,4.1,3.7,8.4,Sikkim,2 months,4.4
+646,894686,38939,17038,1946,1965,YouTube,35 to 45,Female,3.2,Accessories,114133,5.7,3.9,5.5,Gujarat,1 year,4.5
+647,434154,347425,38285,4657,4802,Instagram,5 to 15,Female,3.4,Clothing,123872,1.9,9.6,2.5,Rajasthan,6 months,3.7
+648,420430,442370,27064,6830,3296,Facebook,15 to 25,Male,1.9,Cosmetics,145976,4.4,7.4,4.6,Kerala,2 months,3.8
+649,374495,318939,9380,9888,2023,Facebook,15 to 25,Others,3.3,Accessories,111926,6.6,3.4,6.0,Gujarat,1 month,3.9
+650,181987,88215,21088,7698,4097,Facebook,5 to 15,Male,9.6,Accessories,57373,2.8,3.9,5.7,Gujarat,1 month,4.9
+651,73564,50564,8142,1980,3107,YouTube,15 to 25,Others,10.0,Accessories,57388,6.2,3.9,5.9,Maharashtra,1 month,5.5
+652,345624,418217,27894,5035,4136,YouTube,5 to 15,Male,8.6,Accessories,99377,1.5,9.5,7.5,Punjab,2 years,5.6
+653,760957,254933,49007,8002,814,Facebook,35 to 45,Female,1.9,Clothing,76467,6.7,1.5,8.6,Sikkim,1 month,4.1
+654,485073,250258,48682,7330,4039,Facebook,15 to 25,Female,8.3,Cosmetics,99188,9.2,1.9,5.1,Gujarat,1 month,5.3
+655,116480,168289,1588,857,1382,Facebook,5 to 15,Others,6.4,Accessories,131338,2.6,3.8,6.3,Rajasthan,3 months,3.8
+656,80702,86973,41825,7970,2139,YouTube,35 to 45,Female,8.0,Cosmetics,106344,2.9,2.9,7.2,Kerala,1 month,5.2
+657,414951,357343,25782,434,1143,Instagram,35 to 45,Others,2.1,Cosmetics,87490,6.7,9.9,2.5,Tamil Nadu,3 months,4.4
+658,672758,167531,36693,6716,3987,Instagram,5 to 15,Others,8.3,Cosmetics,107067,8.6,4.6,1.6,Tamil Nadu,1 month,5.1
+659,972954,432170,30275,1602,3227,Facebook,5 to 15,Male,6.5,Accessories,51070,4.6,5.2,2.8,Tamil Nadu,2 months,4.0
+660,449820,271384,42924,8371,4231,Instagram,35 to 45,Others,7.4,Clothing,63719,8.9,8.3,8.0,Maharashtra,2 years,6.8
+661,102277,484137,8727,5876,863,Facebook,15 to 25,Female,2.3,Cosmetics,65929,9.3,1.3,9.8,Rajasthan,1 month,4.6
+662,314556,224225,25528,1507,2992,Facebook,5 to 15,Male,8.5,Accessories,148053,2.4,1.1,1.5,Punjab,1 month,2.9
+663,243348,148092,49368,8840,720,Facebook,5 to 15,Others,9.7,Clothing,138864,8.4,1.9,1.7,Tamil Nadu,6 months,5.0
+664,348400,298361,18474,213,1904,Instagram,25 to 35,Others,4.0,Accessories,131842,9.3,9.1,1.4,Kerala,2 years,4.9
+665,401672,33245,24984,6713,685,Facebook,5 to 15,Female,8.3,Cosmetics,148678,5.9,4.5,9.6,Maharashtra,2 years,7.2
+666,516565,263287,41485,7480,3002,Facebook,35 to 45,Female,3.7,Cosmetics,57462,2.6,4.7,8.5,Punjab,2 years,4.2
+667,523310,128826,4841,6029,576,Facebook,25 to 35,Male,4.6,Cosmetics,132562,8.2,7.6,7.1,Sikkim,6 months,5.6
+668,552773,145545,2740,4470,65,Facebook,35 to 45,Male,3.9,Accessories,82267,9.2,7.7,3.5,Tamil Nadu,3 months,4.9
+669,181681,180989,15119,9724,1801,Facebook,5 to 15,Female,7.0,Clothing,69095,1.1,9.0,8.7,Punjab,1 month,5.3
+670,784170,287298,28403,6461,1296,YouTube,5 to 15,Female,2.4,Cosmetics,62575,9.4,6.8,1.2,Maharashtra,6 months,4.2
+671,378160,61363,10457,1657,2681,Facebook,15 to 25,Female,8.5,Cosmetics,70737,6.2,4.3,5.1,Gujarat,3 months,5.2
+672,439889,168671,45503,7999,3155,Facebook,15 to 25,Male,7.5,Cosmetics,61352,3.1,5.5,4.9,Gujarat,1 year,4.7
+673,478087,410134,31616,1185,2073,YouTube,15 to 25,Male,2.6,Cosmetics,122607,9.3,6.0,9.6,Kerala,1 month,5.7
+674,785463,404938,19572,8186,2391,Facebook,35 to 45,Others,4.5,Cosmetics,106912,4.0,2.2,1.6,Tamil Nadu,1 month,2.6
+675,845270,467757,18799,9161,1160,Facebook,5 to 15,Male,8.7,Clothing,108183,1.7,8.9,6.5,Tamil Nadu,6 months,5.2
+676,56173,289294,8925,9630,3648,YouTube,25 to 35,Others,6.6,Clothing,111040,8.9,1.5,6.6,Kerala,1 year,4.8
+677,705155,420248,22985,830,3819,Instagram,5 to 15,Female,1.9,Clothing,119050,6.6,5.0,1.5,Gujarat,1 year,3.1
+678,310717,202826,35231,5121,1981,YouTube,25 to 35,Others,8.3,Clothing,61024,5.5,2.5,7.1,Gujarat,2 months,5.0
+679,246323,203196,30931,2924,1949,YouTube,5 to 15,Female,3.5,Clothing,55821,8.8,8.8,4.2,Gujarat,6 months,5.4
+680,430293,404724,11474,2691,1225,Facebook,5 to 15,Others,6.6,Clothing,105342,7.4,4.5,9.6,Rajasthan,1 year,5.7
+681,889198,60336,15193,8755,3987,YouTube,15 to 25,Female,4.0,Accessories,90949,4.3,4.3,4.3,Kerala,2 months,3.9
+682,584528,433038,44256,5020,1137,Facebook,25 to 35,Others,4.8,Accessories,68797,3.2,9.1,2.8,Sikkim,6 months,4.2
+683,93221,212919,34154,1637,2559,Instagram,5 to 15,Female,5.1,Clothing,144693,1.5,6.4,1.3,Punjab,1 year,3.2
+684,978035,21447,46284,2516,271,Instagram,35 to 45,Others,8.2,Cosmetics,63080,1.7,7.1,5.2,Kerala,1 year,8.8
+685,472424,322923,11582,5549,2759,Instagram,5 to 15,Male,8.5,Clothing,113246,9.8,8.3,6.0,Gujarat,6 months,6.6
+686,536472,331372,8494,9161,3858,YouTube,35 to 45,Male,7.5,Clothing,110035,3.7,9.7,2.4,Rajasthan,1 month,4.7
+687,64586,429256,32583,2219,2665,YouTube,5 to 15,Male,5.4,Accessories,59672,2.7,4.4,4.2,Rajasthan,1 year,3.5
+688,961904,233957,47293,5365,280,Facebook,25 to 35,Male,1.2,Clothing,115677,6.2,7.8,7.3,Rajasthan,1 month,4.9
+689,851232,85752,47130,4900,3996,YouTube,35 to 45,Male,5.7,Cosmetics,63608,8.1,7.2,9.8,Kerala,3 months,7.3
+690,364461,281663,42047,8677,1922,Facebook,25 to 35,Male,9.8,Cosmetics,51460,6.9,7.4,1.4,Kerala,6 months,5.4
+691,309163,238661,27026,5300,3549,YouTube,15 to 25,Female,4.6,Clothing,81979,3.2,3.1,6.0,Kerala,2 years,3.6
+692,98411,129946,47509,3102,1363,YouTube,25 to 35,Male,4.7,Cosmetics,73053,6.4,9.7,7.9,Rajasthan,1 year,6.5
+693,633867,198822,12339,6839,2444,Facebook,5 to 15,Others,3.9,Accessories,134975,8.1,3.4,1.7,Kerala,1 month,3.5
+694,358776,99245,21923,4700,898,Facebook,5 to 15,Male,1.3,Clothing,72417,7.0,5.3,7.8,Gujarat,1 month,4.7
+695,75423,41708,35353,5917,4462,Instagram,15 to 25,Female,9.9,Clothing,136513,4.8,7.5,1.7,Sikkim,2 months,6.5
+696,157280,431034,27469,3576,2273,Instagram,5 to 15,Male,3.5,Cosmetics,85965,3.4,3.0,6.4,Gujarat,6 months,3.4
+697,83026,125344,41610,9414,2023,Facebook,15 to 25,Female,2.7,Clothing,131694,3.1,5.2,5.1,Rajasthan,2 years,3.9
+698,551280,190460,41136,3448,510,Facebook,35 to 45,Female,9.3,Accessories,149687,7.5,6.6,2.5,Sikkim,1 year,5.6
+699,644662,359242,2876,3130,4803,Instagram,15 to 25,Female,5.5,Cosmetics,115083,4.5,5.1,2.3,Punjab,2 years,3.5
+700,304805,427306,16524,7951,3761,Facebook,15 to 25,Others,9.2,Clothing,127145,9.1,8.8,7.3,Punjab,2 years,7.0
+701,511477,246785,27588,3964,4531,YouTube,35 to 45,Male,9.3,Accessories,56678,4.2,6.5,7.3,Rajasthan,6 months,5.7
+702,52277,286948,47349,1787,492,Facebook,25 to 35,Female,1.1,Clothing,148009,5.9,2.2,1.3,Rajasthan,2 years,2.4
+703,726919,485288,27547,3710,4474,Instagram,35 to 45,Female,2.7,Cosmetics,149679,1.1,6.5,4.7,Gujarat,3 months,3.1
+704,625638,39412,43921,7980,1894,Instagram,25 to 35,Others,4.3,Accessories,118676,6.3,4.8,9.8,Sikkim,2 months,7.3
+705,970924,398616,22749,6191,4739,Instagram,15 to 25,Others,8.1,Clothing,142423,7.4,6.3,1.4,Kerala,3 months,4.8
+706,130074,223216,24875,4437,1299,Instagram,5 to 15,Female,3.1,Accessories,64242,5.2,7.0,1.0,Tamil Nadu,6 months,3.5
+707,277826,198136,31850,8515,529,Instagram,5 to 15,Female,2.8,Accessories,108375,9.9,4.5,3.3,Gujarat,2 years,4.4
+708,160719,486559,24312,1193,316,YouTube,5 to 15,Female,7.1,Cosmetics,73790,2.7,7.9,8.9,Gujarat,2 years,5.4
+709,546029,102930,18897,5895,620,Instagram,25 to 35,Female,6.7,Cosmetics,106714,1.1,2.4,6.5,Sikkim,3 months,3.7
+710,184749,444173,24670,791,3405,Instagram,5 to 15,Female,3.9,Clothing,108383,5.8,7.5,2.8,Rajasthan,6 months,4.1
+711,78492,244891,12097,5171,4236,YouTube,5 to 15,Others,3.0,Clothing,50423,8.4,1.3,8.4,Rajasthan,1 year,4.3
+712,586745,283793,28976,9907,3012,Instagram,15 to 25,Others,6.0,Accessories,143178,3.9,1.0,3.3,Punjab,2 months,3.0
+713,262161,36297,3636,9043,3020,YouTube,35 to 45,Male,3.1,Accessories,92744,1.5,1.1,4.6,Gujarat,1 year,2.3
+714,340996,256619,3544,5569,2458,Instagram,15 to 25,Female,3.7,Cosmetics,100881,7.0,4.3,9.2,Punjab,2 months,4.9
+715,73072,77578,5042,6909,462,Facebook,5 to 15,Others,9.1,Accessories,65959,6.3,1.7,4.6,Rajasthan,1 year,4.5
+716,612990,85329,36301,4526,2560,Facebook,15 to 25,Male,7.8,Clothing,96201,9.0,8.9,4.2,Kerala,1 month,6.8
+717,481250,278654,5463,9207,998,Instagram,15 to 25,Male,8.8,Clothing,97797,8.6,9.9,7.4,Kerala,1 year,7.0
+718,561575,336606,13939,4780,3883,YouTube,25 to 35,Male,1.8,Accessories,81544,6.8,3.3,4.1,Maharashtra,1 year,3.3
+719,986842,303282,13101,7160,2019,Facebook,25 to 35,Male,9.6,Clothing,145470,2.5,5.1,9.8,Maharashtra,2 years,5.5
+720,232528,184169,25900,5691,3514,YouTube,5 to 15,Male,3.9,Accessories,64182,9.8,7.4,3.6,Sikkim,6 months,5.2
+721,559826,168763,43210,3353,3223,YouTube,25 to 35,Male,4.6,Cosmetics,122075,7.3,5.5,6.9,Rajasthan,1 month,5.4
+722,800022,85233,19226,6200,4785,YouTube,35 to 45,Others,6.0,Clothing,70595,1.8,7.3,5.4,Maharashtra,2 months,4.6
+723,394222,329459,3097,8907,4697,Facebook,5 to 15,Female,8.9,Cosmetics,128894,4.1,5.2,4.7,Sikkim,1 month,4.6
+724,863335,316154,39957,7144,4810,Facebook,25 to 35,Male,2.7,Accessories,140245,8.8,7.4,2.1,Gujarat,1 year,4.5
+725,861016,393208,37283,8951,4023,Facebook,25 to 35,Male,2.5,Clothing,64714,9.6,6.6,8.9,Gujarat,2 months,5.7
+726,650318,165182,42987,3753,3197,Instagram,25 to 35,Others,2.6,Clothing,88752,4.7,1.1,2.7,Sikkim,3 months,2.7
+727,768188,362813,39145,476,2734,Facebook,5 to 15,Male,4.6,Clothing,60989,3.3,4.2,8.0,Gujarat,3 months,4.2
+728,784925,345560,33402,1627,1241,Instagram,5 to 15,Female,4.7,Cosmetics,84166,1.5,6.6,5.4,Maharashtra,6 months,3.8
+729,727855,206145,27095,5229,764,Facebook,25 to 35,Male,4.2,Accessories,105376,1.6,3.6,9.9,Maharashtra,6 months,4.1
+730,405269,94961,46523,3544,4062,YouTube,5 to 15,Others,1.5,Accessories,101371,6.2,7.4,2.4,Rajasthan,3 months,4.5
+731,651166,190334,36394,5237,1934,YouTube,5 to 15,Others,8.8,Accessories,129219,3.3,7.8,9.8,Tamil Nadu,1 month,6.3
+732,917740,190476,48965,5056,662,YouTube,25 to 35,Female,2.5,Cosmetics,149574,2.9,5.0,6.5,Maharashtra,3 months,3.9
+733,765228,281099,22552,2721,4984,Facebook,35 to 45,Female,7.8,Clothing,83417,2.0,5.2,1.8,Sikkim,6 months,3.5
+734,889359,245391,3208,4178,1142,YouTube,15 to 25,Others,4.6,Accessories,144958,4.0,2.3,1.7,Punjab,2 years,2.5
+735,959888,270313,31907,7534,292,Facebook,15 to 25,Others,9.9,Clothing,121797,8.1,8.3,6.5,Gujarat,1 year,6.8
+736,249592,284349,47513,6825,1927,Facebook,5 to 15,Others,6.9,Cosmetics,99109,8.6,9.8,4.4,Sikkim,2 years,6.3
+737,126565,294938,30680,7561,1284,Instagram,25 to 35,Female,2.6,Accessories,109064,8.0,2.8,2.7,Sikkim,2 months,3.4
+738,682527,247644,6419,3020,2527,YouTube,5 to 15,Others,5.0,Cosmetics,76862,2.2,4.9,7.4,Maharashtra,2 years,4.0
+739,333078,379415,12471,3355,2781,YouTube,25 to 35,Male,4.3,Accessories,145402,6.5,8.6,6.3,Rajasthan,1 month,5.2
+740,870870,48323,25001,490,2033,Instagram,5 to 15,Female,2.0,Cosmetics,129892,1.4,4.6,1.8,Kerala,2 months,3.0
+741,272867,394562,25143,2166,3363,YouTube,35 to 45,Female,7.2,Accessories,144886,4.3,4.1,8.6,Tamil Nadu,2 months,5.0
+742,592987,199368,29165,9723,2442,Instagram,35 to 45,Male,5.2,Cosmetics,52504,8.0,1.6,1.3,Tamil Nadu,2 months,3.5
+743,839696,162136,4867,4755,1200,Facebook,15 to 25,Female,4.5,Clothing,101852,9.4,9.0,1.4,Kerala,1 year,4.9
+744,118043,241079,49666,1645,266,Facebook,35 to 45,Male,7.8,Accessories,114096,7.0,8.1,4.8,Maharashtra,2 months,6.0
+745,592130,184153,46141,8181,2237,Facebook,35 to 45,Female,8.0,Accessories,102371,8.2,3.3,1.2,Maharashtra,3 months,4.6
+746,411415,29662,7200,1789,1206,Instagram,35 to 45,Others,4.9,Cosmetics,75345,4.0,5.6,8.8,Maharashtra,1 year,5.1
+747,740811,226724,26057,9337,2910,Facebook,5 to 15,Others,8.9,Accessories,74934,1.2,1.2,1.6,Maharashtra,1 year,2.8
+748,85858,98454,1454,6055,3469,YouTube,25 to 35,Others,4.5,Clothing,118243,4.4,7.3,1.6,Tamil Nadu,2 years,3.6
+749,78476,266577,16646,7920,1791,Instagram,25 to 35,Male,6.6,Accessories,75157,3.9,2.9,9.4,Gujarat,6 months,4.7
+750,571581,108147,19424,3794,3634,YouTube,35 to 45,Others,1.6,Cosmetics,88561,1.1,1.3,2.4,Sikkim,3 months,1.6
+751,69966,49866,35705,4829,1078,YouTube,15 to 25,Others,8.5,Accessories,58525,5.5,6.2,1.0,Rajasthan,1 month,5.7
+752,351837,274527,25500,2415,3754,YouTube,25 to 35,Others,3.8,Cosmetics,89751,9.7,6.8,6.6,Maharashtra,2 years,5.6
+753,361101,188142,33412,5105,686,Facebook,25 to 35,Others,5.2,Accessories,103981,5.6,6.6,10.0,Kerala,6 months,5.8
+754,677235,353246,5847,3231,1702,Instagram,15 to 25,Others,1.7,Cosmetics,102868,4.7,8.1,2.9,Rajasthan,1 month,3.5
+755,721963,389248,45865,7895,2844,YouTube,25 to 35,Male,3.0,Clothing,77663,8.5,7.2,10.0,Rajasthan,2 months,6.0
+756,599492,486863,14560,3854,2664,Instagram,25 to 35,Others,6.5,Cosmetics,95176,4.9,10.0,6.6,Maharashtra,3 months,5.7
+757,412730,326167,27019,5510,603,Facebook,35 to 45,Male,2.7,Clothing,108995,6.7,2.3,4.7,Tamil Nadu,2 years,3.4
+758,939224,69749,43226,2005,4850,Instagram,15 to 25,Others,4.4,Cosmetics,124593,8.9,5.1,3.0,Tamil Nadu,3 months,5.5
+759,345865,271077,3764,5566,2373,Facebook,15 to 25,Female,4.6,Cosmetics,74102,7.6,8.3,3.9,Rajasthan,6 months,4.9
+760,948292,291640,2260,4727,894,YouTube,35 to 45,Male,2.5,Clothing,113721,3.3,8.9,5.1,Sikkim,2 years,4.0
+761,66501,478350,39701,4789,4488,Instagram,5 to 15,Others,9.7,Cosmetics,142263,1.9,4.8,7.9,Gujarat,1 year,5.0
+762,225902,421336,1643,7409,1972,Instagram,5 to 15,Male,7.5,Accessories,114905,4.6,6.7,3.8,Maharashtra,6 months,4.5
+763,807084,22835,36901,7319,997,Instagram,25 to 35,Others,5.8,Cosmetics,65871,1.2,3.2,3.6,Kerala,3 months,6.0
+764,741459,353864,31069,4144,4261,Instagram,15 to 25,Others,5.0,Accessories,139185,2.0,8.3,7.3,Sikkim,2 years,4.7
+765,235332,303794,15712,1179,168,Facebook,35 to 45,Male,2.4,Accessories,143341,2.0,1.7,1.8,Maharashtra,2 months,1.7
+766,231615,65255,25278,7874,195,Facebook,35 to 45,Others,8.1,Clothing,127278,2.9,2.0,7.1,Punjab,1 year,4.8
+767,613757,397768,13494,5914,533,Instagram,15 to 25,Others,8.7,Cosmetics,85725,2.6,5.3,7.7,Rajasthan,2 years,4.9
+768,243554,353191,14380,1750,2162,Facebook,15 to 25,Male,9.5,Accessories,146616,8.0,6.3,3.4,Tamil Nadu,3 months,5.5
+769,992089,349583,23017,6815,717,YouTube,15 to 25,Male,7.0,Clothing,149977,3.6,6.0,2.1,Punjab,1 month,3.9
+770,396607,97351,26281,7186,3314,Instagram,15 to 25,Female,3.2,Clothing,70846,5.9,6.6,9.2,Rajasthan,2 years,5.5
+771,72787,278689,28925,9974,3419,Facebook,25 to 35,Male,5.0,Accessories,84342,2.6,1.4,3.0,Sikkim,2 months,2.6
+772,248161,258379,5923,1338,3256,Facebook,25 to 35,Male,2.1,Cosmetics,86511,2.5,1.3,7.8,Kerala,2 months,2.8
+773,732862,34836,21503,4242,676,YouTube,15 to 25,Female,2.0,Cosmetics,148399,5.1,2.6,9.3,Sikkim,2 years,5.0
+774,817469,105226,49566,6412,3429,YouTube,25 to 35,Others,8.1,Cosmetics,70658,5.6,10.0,7.0,Tamil Nadu,6 months,7.1
+775,319024,242976,43926,9675,4705,Facebook,35 to 45,Female,7.1,Cosmetics,50300,7.3,3.6,5.1,Rajasthan,6 months,5.0
+776,902048,235625,17190,6431,2898,Facebook,35 to 45,Female,7.8,Clothing,108814,4.0,6.5,1.6,Kerala,1 year,4.1
+777,467856,222884,35582,6930,3546,YouTube,35 to 45,Others,6.1,Cosmetics,119705,6.6,9.0,3.0,Punjab,6 months,5.3
+778,93636,17299,13478,1526,498,YouTube,25 to 35,Female,4.0,Cosmetics,108163,3.9,5.0,4.5,Maharashtra,2 years,5.0
+779,447474,32705,44516,1843,4888,YouTube,5 to 15,Female,4.9,Accessories,79389,5.3,2.2,7.5,Sikkim,3 months,6.7
+780,343478,209099,46279,5174,1756,YouTube,5 to 15,Others,6.4,Accessories,105135,4.3,6.7,7.0,Sikkim,6 months,5.3
+781,165971,482433,31238,4118,2351,Facebook,25 to 35,Male,5.0,Accessories,54382,7.7,3.0,3.3,Sikkim,1 year,3.9
+782,761847,475212,15684,4820,1986,Instagram,15 to 25,Female,7.3,Accessories,85249,9.3,5.7,7.2,Rajasthan,1 year,6.0
+783,377258,492172,1373,8691,3978,YouTube,15 to 25,Others,7.3,Accessories,148701,7.1,5.3,1.8,Tamil Nadu,1 month,4.3
+784,633721,186407,16272,5486,1417,Facebook,15 to 25,Female,2.0,Cosmetics,128844,7.8,5.5,6.0,Maharashtra,3 months,4.4
+785,568714,433847,17142,5363,4665,Facebook,25 to 35,Others,7.4,Clothing,53363,7.7,9.5,9.5,Maharashtra,6 months,6.9
+786,988246,276518,6212,5979,1822,Instagram,25 to 35,Others,7.8,Accessories,125229,9.5,6.1,9.6,Rajasthan,1 month,6.6
+787,375948,447330,3384,9139,3133,Instagram,35 to 45,Male,8.2,Clothing,113002,1.2,7.7,3.2,Punjab,2 months,4.1
+788,441707,412467,36056,4208,2453,Instagram,25 to 35,Male,6.8,Clothing,60821,6.0,4.3,9.2,Gujarat,6 months,5.4
+789,431576,273966,34416,2384,3455,Instagram,25 to 35,Male,2.1,Cosmetics,71953,6.8,8.9,8.4,Rajasthan,2 years,5.5
+790,532417,291794,34251,3279,3091,Facebook,15 to 25,Others,5.4,Clothing,99047,2.7,6.2,7.1,Kerala,3 months,4.5
+791,627519,153849,31683,1468,1416,Facebook,25 to 35,Female,5.6,Clothing,135039,9.1,6.2,3.7,Sikkim,2 months,5.3
+792,668026,357872,28110,5835,1807,Instagram,15 to 25,Others,6.6,Clothing,51212,4.0,8.5,5.7,Punjab,3 months,5.1
+793,915228,60778,30321,8958,3318,Facebook,15 to 25,Female,9.9,Accessories,60854,2.5,6.0,1.9,Gujarat,6 months,5.1
+794,926529,250298,40764,5791,3880,YouTube,5 to 15,Male,7.0,Cosmetics,111606,9.1,6.8,8.7,Tamil Nadu,1 year,6.6
+795,708639,313613,46256,115,2742,Instagram,5 to 15,Others,6.1,Cosmetics,95702,4.3,6.8,5.9,Rajasthan,1 year,4.9
+796,788763,429024,1353,9238,808,YouTube,25 to 35,Others,7.8,Cosmetics,80586,9.0,5.0,6.2,Maharashtra,1 month,5.6
+797,456841,46959,7019,5920,464,Instagram,5 to 15,Others,6.4,Clothing,119319,5.7,7.3,5.7,Rajasthan,1 month,5.3
+798,361093,484354,43662,7547,4303,Facebook,5 to 15,Male,3.6,Accessories,149895,3.0,1.6,4.0,Sikkim,2 months,2.6
+799,537329,169979,16467,9317,328,YouTube,15 to 25,Male,5.3,Clothing,83812,1.7,5.1,9.3,Rajasthan,2 months,4.5
+800,346581,228746,47454,1848,4901,Instagram,35 to 45,Others,2.2,Accessories,149423,7.5,2.9,6.5,Punjab,1 year,4.2
+801,299901,15856,27720,9882,2105,Facebook,25 to 35,Male,9.5,Cosmetics,56731,3.6,9.6,2.4,Kerala,3 months,8.5
+802,959998,59786,1136,3303,3097,YouTube,15 to 25,Male,8.4,Accessories,67660,4.3,3.8,3.0,Tamil Nadu,2 months,3.9
+803,543479,260856,47541,7351,2528,Instagram,25 to 35,Male,7.0,Cosmetics,129082,5.9,8.5,3.1,Sikkim,3 months,5.3
+804,842921,13948,42370,9263,1124,Instagram,25 to 35,Others,3.4,Cosmetics,84536,6.6,3.3,9.6,Punjab,2 months,10.7
+805,145857,242786,27305,5395,583,Instagram,15 to 25,Female,8.8,Clothing,144873,2.0,1.4,1.8,Punjab,1 month,3.0
+806,538632,143066,46222,3322,2770,Facebook,15 to 25,Female,3.6,Clothing,70882,8.2,4.4,2.4,Gujarat,3 months,4.4
+807,888448,83694,47806,5923,442,Facebook,25 to 35,Others,7.9,Accessories,50280,1.9,9.0,8.3,Rajasthan,2 years,6.6
+808,382755,314070,41755,4609,1496,Instagram,25 to 35,Female,2.0,Accessories,142158,1.5,9.9,3.8,Tamil Nadu,1 year,3.7
+809,964016,180517,37220,9444,3678,YouTube,25 to 35,Female,5.8,Cosmetics,106914,2.7,4.3,8.8,Sikkim,3 months,4.7
+810,197399,309158,1882,5806,1979,YouTube,35 to 45,Male,9.5,Clothing,149097,9.0,8.6,5.0,Gujarat,1 year,6.4
+811,116015,314917,27911,1783,3756,Instagram,15 to 25,Others,2.7,Accessories,138971,3.7,4.3,3.4,Punjab,2 months,3.0
+812,616296,205082,21788,5865,1959,Instagram,25 to 35,Female,6.7,Accessories,60934,7.6,4.4,4.9,Kerala,2 months,4.9
+813,77743,276555,13804,9321,4709,YouTube,35 to 45,Female,9.5,Cosmetics,147380,7.9,6.4,7.0,Kerala,6 months,6.3
+814,805880,264550,37456,3945,3736,Facebook,25 to 35,Female,1.2,Accessories,77303,4.7,5.4,1.0,Punjab,3 months,2.7
+815,477260,210471,26941,2689,938,YouTube,25 to 35,Male,10.0,Clothing,120620,1.3,7.6,8.1,Gujarat,2 months,5.7
+816,806632,214782,7901,6881,2017,Instagram,25 to 35,Male,4.4,Clothing,58297,3.4,4.2,8.3,Tamil Nadu,6 months,4.1
+817,562537,186803,38791,7670,978,Instagram,15 to 25,Male,5.7,Cosmetics,94988,6.5,2.4,5.4,Rajasthan,2 months,4.4
+818,189637,99874,45352,9714,2981,Instagram,35 to 45,Female,9.2,Accessories,91715,8.6,6.0,4.4,Tamil Nadu,3 months,6.5
+819,152401,476021,29662,6259,3018,Facebook,35 to 45,Others,6.4,Accessories,58841,7.1,3.5,2.3,Gujarat,6 months,4.0
+820,480550,371804,22126,1276,4320,YouTube,5 to 15,Male,9.0,Clothing,109459,9.2,2.3,8.7,Punjab,2 years,6.0
+821,184865,215297,5581,7820,241,YouTube,5 to 15,Male,8.0,Cosmetics,148206,9.7,8.6,3.5,Gujarat,6 months,6.0
+822,952805,116932,20970,7315,1429,Facebook,5 to 15,Male,2.1,Accessories,98931,2.1,7.3,1.8,Rajasthan,1 month,3.0
+823,186352,264532,26729,9334,3711,YouTube,35 to 45,Female,7.4,Cosmetics,112695,3.0,3.7,1.3,Rajasthan,1 year,3.3
+824,233266,91344,6957,7471,4889,Instagram,5 to 15,Others,8.7,Accessories,117005,3.4,8.3,9.3,Tamil Nadu,1 year,6.1
+825,731681,180144,39497,1272,2309,Instagram,25 to 35,Male,3.7,Clothing,80496,9.5,5.0,4.2,Kerala,3 months,4.9
+826,929484,349891,20513,5635,1377,Instagram,35 to 45,Male,1.5,Clothing,53761,7.3,1.9,1.9,Gujarat,2 years,2.6
+827,808509,365567,22077,1089,3804,YouTube,15 to 25,Male,4.0,Accessories,75777,5.9,6.5,5.4,Sikkim,6 months,4.5
+828,693220,461437,43789,1873,1208,Facebook,15 to 25,Female,3.4,Cosmetics,100697,9.0,2.7,7.7,Maharashtra,1 year,4.7
+829,551294,376516,18218,7784,1433,Instagram,15 to 25,Others,8.2,Accessories,132554,4.8,1.5,9.0,Kerala,6 months,4.8
+830,331854,335525,25747,1472,4220,YouTube,35 to 45,Male,8.4,Accessories,112454,7.1,5.7,2.2,Rajasthan,2 years,4.8
+831,202068,305624,24549,5084,2907,YouTube,15 to 25,Male,6.3,Clothing,107218,4.0,10.0,4.6,Kerala,3 months,5.1
+832,78918,147908,16417,1281,650,YouTube,15 to 25,Female,4.2,Accessories,62685,9.2,5.9,8.1,Kerala,2 years,5.7
+833,595858,254028,40455,5421,923,Instagram,35 to 45,Others,7.8,Cosmetics,68507,4.3,6.7,3.9,Gujarat,2 years,4.9
+834,343766,470159,22068,2662,2099,YouTube,35 to 45,Others,2.4,Cosmetics,78933,3.2,8.9,4.3,Rajasthan,1 year,3.9
+835,476981,234667,9243,5176,2634,Instagram,35 to 45,Female,8.7,Cosmetics,138426,7.7,1.4,1.6,Kerala,1 year,4.0
+836,450574,305390,40935,5493,3255,YouTube,5 to 15,Others,3.0,Accessories,138574,5.7,4.3,8.4,Kerala,1 year,4.5
+837,593067,267049,6138,146,3238,Facebook,25 to 35,Others,2.6,Clothing,76557,9.3,4.9,8.4,Tamil Nadu,1 year,5.1
+838,622014,435612,18248,5568,3771,YouTube,5 to 15,Male,9.2,Clothing,126562,2.3,9.0,7.4,Sikkim,1 month,5.7
+839,352163,345408,4808,1840,683,Instagram,15 to 25,Others,9.8,Accessories,96269,9.0,1.9,3.3,Maharashtra,2 months,4.8
+840,560782,228532,11426,4005,4863,YouTube,5 to 15,Others,1.7,Cosmetics,62193,5.6,1.7,2.8,Rajasthan,1 year,2.5
+841,941447,424974,18738,4402,4339,Instagram,15 to 25,Female,2.2,Clothing,101593,8.8,1.8,3.1,Gujarat,2 years,3.3
+842,381403,148695,17868,8928,4312,Instagram,35 to 45,Female,9.1,Cosmetics,72594,5.5,2.7,9.0,Gujarat,3 months,5.5
+843,259310,311692,13185,3491,2966,Instagram,15 to 25,Male,2.9,Cosmetics,106376,1.3,9.2,4.6,Gujarat,1 year,3.7
+844,638440,41676,25126,5714,2843,YouTube,25 to 35,Others,9.2,Accessories,140663,1.8,6.5,8.7,Kerala,1 year,6.4
+845,960163,115150,15416,3491,4514,Instagram,15 to 25,Others,2.2,Clothing,108088,4.3,3.0,5.8,Sikkim,6 months,3.3
+846,95638,386633,40775,6318,196,Facebook,5 to 15,Female,6.3,Cosmetics,119990,5.8,3.5,2.3,Gujarat,2 years,3.8
+847,235885,459415,33104,1519,4124,YouTube,15 to 25,Male,2.9,Cosmetics,85662,5.2,6.5,5.9,Rajasthan,1 year,4.2
+848,837622,333428,42711,8252,1853,Facebook,35 to 45,Male,4.1,Accessories,74430,4.8,4.5,8.2,Kerala,1 month,4.6
+849,617908,402903,29634,8816,604,Facebook,15 to 25,Others,4.5,Accessories,80022,5.1,5.4,4.6,Gujarat,6 months,4.1
+850,623890,48194,15078,9193,1341,YouTube,15 to 25,Others,8.4,Cosmetics,82514,8.1,5.5,6.8,Rajasthan,2 years,6.4
+851,460569,190449,23847,2387,4019,YouTube,35 to 45,Others,1.4,Clothing,89327,7.3,7.1,8.6,Tamil Nadu,3 months,5.1
+852,560224,182824,12631,3758,2268,Instagram,35 to 45,Others,2.1,Cosmetics,65735,4.2,2.5,9.6,Gujarat,1 month,3.8
+853,432371,257659,2507,4111,1094,Facebook,35 to 45,Others,5.3,Cosmetics,76539,1.6,3.1,3.8,Rajasthan,6 months,2.8
+854,72679,250727,7893,5485,4845,Facebook,35 to 45,Female,9.4,Cosmetics,117248,6.5,2.1,5.0,Punjab,3 months,4.7
+855,302848,14692,18014,4597,143,YouTube,35 to 45,Female,3.6,Accessories,93673,7.0,6.4,5.9,Punjab,2 years,7.0
+856,148869,50174,16219,7843,170,Instagram,25 to 35,Female,8.5,Cosmetics,137496,5.7,9.4,8.7,Sikkim,3 months,7.1
+857,402313,19036,4097,1661,4782,Instagram,25 to 35,Male,5.8,Accessories,60591,8.0,9.5,3.2,Punjab,3 months,5.7
+858,479838,142679,27357,5566,4779,YouTube,15 to 25,Female,2.2,Clothing,124820,8.9,8.9,1.7,Kerala,6 months,4.7
+859,159560,398492,46189,8748,2246,Instagram,25 to 35,Others,7.0,Clothing,84788,8.3,3.4,1.1,Punjab,3 months,4.2
+860,355415,297394,12633,8176,1093,Instagram,5 to 15,Others,2.3,Cosmetics,107011,5.7,10.0,7.8,Rajasthan,6 months,5.2
+861,58702,435253,20525,973,4340,YouTube,15 to 25,Female,9.3,Cosmetics,132100,3.3,6.6,9.9,Maharashtra,3 months,5.9
+862,221177,243005,17186,4920,4067,Facebook,15 to 25,Female,4.6,Accessories,63690,9.1,7.8,6.8,Sikkim,6 months,5.8
+863,343540,347642,23364,4274,1671,Facebook,15 to 25,Female,5.1,Clothing,86370,2.0,9.2,5.3,Maharashtra,2 years,4.5
+864,525902,279212,17462,7594,4929,Instagram,25 to 35,Male,6.0,Cosmetics,126007,2.2,6.4,6.9,Kerala,2 months,4.4
+865,346620,266938,25377,8783,3307,YouTube,15 to 25,Male,4.2,Cosmetics,103479,7.3,6.4,1.2,Rajasthan,2 years,4.0
+866,855964,326947,2956,1082,3601,Instagram,5 to 15,Female,7.7,Accessories,71119,2.4,6.2,9.6,Maharashtra,1 year,5.2
+867,267304,398303,42897,3090,381,Facebook,35 to 45,Male,8.6,Accessories,135819,5.5,2.1,9.9,Kerala,6 months,5.4
+868,351381,93061,18658,4968,2513,YouTube,5 to 15,Male,1.7,Cosmetics,139669,8.8,9.4,1.0,Sikkim,2 years,4.6
+869,371673,386265,33053,6732,4402,Facebook,5 to 15,Female,2.0,Clothing,115686,6.2,7.4,7.0,Tamil Nadu,3 months,4.7
+870,912127,128437,6884,1725,4672,Facebook,15 to 25,Female,2.5,Clothing,109058,1.4,6.6,8.4,Kerala,3 months,3.9
+871,723446,361189,48655,2939,281,Facebook,15 to 25,Male,7.9,Accessories,116737,5.9,8.5,9.8,Kerala,2 months,6.7
+872,265419,147939,24140,7138,856,YouTube,15 to 25,Others,7.0,Accessories,101483,1.3,8.6,4.5,Gujarat,2 years,4.6
+873,811708,463733,45323,8977,4637,YouTube,15 to 25,Male,6.9,Accessories,80503,7.4,1.9,4.7,Rajasthan,2 years,4.4
+874,789171,35290,49088,9307,524,Facebook,25 to 35,Female,7.9,Cosmetics,126790,3.5,6.9,5.6,Sikkim,6 months,7.6
+875,338658,404344,6014,3853,1421,Instagram,15 to 25,Others,2.7,Accessories,143876,2.6,8.5,4.7,Punjab,2 years,3.7
+876,915050,458962,17051,7760,4471,YouTube,15 to 25,Male,7.3,Clothing,141073,8.2,9.5,9.7,Rajasthan,1 year,7.0
+877,204663,47920,20411,3827,1194,YouTube,5 to 15,Male,4.5,Accessories,134687,9.8,8.8,4.7,Tamil Nadu,6 months,6.4
+878,592171,161172,18574,4732,2691,Instagram,35 to 45,Female,5.1,Cosmetics,50519,5.6,4.9,9.5,Sikkim,3 months,5.3
+879,346835,471744,11400,3252,2617,Instagram,15 to 25,Male,5.5,Clothing,81010,3.6,7.1,3.7,Maharashtra,2 years,4.0
+880,442630,451751,27016,8910,4196,YouTube,5 to 15,Female,1.2,Clothing,140884,4.7,4.6,9.3,Rajasthan,6 months,4.1
+881,481956,498439,28110,8417,841,Instagram,35 to 45,Female,2.1,Clothing,71410,8.2,6.3,2.4,Gujarat,3 months,3.9
+882,93501,370889,7452,6414,1029,Facebook,5 to 15,Female,4.4,Accessories,76424,9.1,7.9,6.0,Punjab,1 month,5.5
+883,346013,129635,40751,6978,164,Instagram,25 to 35,Male,4.4,Accessories,116095,5.4,2.8,2.4,Maharashtra,3 months,3.6
+884,955759,371250,10944,3715,2353,YouTube,15 to 25,Male,2.6,Accessories,65317,9.8,2.1,6.3,Kerala,2 years,4.2
+885,859619,292518,5454,1486,4175,Instagram,15 to 25,Others,8.4,Cosmetics,129487,3.6,2.4,5.6,Kerala,3 months,4.0
+886,996668,52112,37095,9809,2405,Instagram,25 to 35,Male,2.6,Accessories,132238,6.7,7.6,9.7,Sikkim,3 months,6.7
+887,228802,128352,8063,2807,93,Facebook,15 to 25,Female,3.3,Cosmetics,89264,7.6,1.1,2.7,Sikkim,2 months,3.1
+888,195171,215760,32049,8833,3601,YouTube,25 to 35,Female,2.6,Accessories,131052,3.9,3.1,5.6,Maharashtra,3 months,3.3
+889,110637,18720,15324,9842,367,Instagram,25 to 35,Female,5.2,Cosmetics,127475,3.1,2.8,4.1,Gujarat,1 year,4.7
+890,60868,39552,30237,8655,877,Instagram,35 to 45,Female,2.9,Accessories,90480,2.1,4.3,5.3,Rajasthan,3 months,4.4
+891,264425,473960,34260,1422,2290,YouTube,25 to 35,Others,2.7,Accessories,75317,8.3,8.7,2.8,Gujarat,2 years,4.6
+892,803251,319495,11651,2146,4880,Facebook,15 to 25,Female,9.8,Clothing,66256,8.8,2.5,3.5,Rajasthan,2 months,5.0
+893,105678,185633,29253,2713,171,YouTube,15 to 25,Female,6.3,Clothing,97198,5.3,3.5,7.5,Rajasthan,1 month,4.8
+894,127664,224898,42709,1472,1578,Facebook,35 to 45,Female,9.0,Cosmetics,93332,3.7,4.2,9.5,Rajasthan,6 months,5.7
+895,904230,216829,23250,979,2399,Instagram,35 to 45,Female,6.8,Clothing,51692,5.7,2.6,9.9,Punjab,1 year,5.2
+896,400826,122819,22312,1346,3965,YouTube,35 to 45,Male,5.9,Cosmetics,71929,1.8,2.8,6.0,Punjab,3 months,3.7
+897,823810,390198,44150,3919,1950,Instagram,15 to 25,Male,2.9,Accessories,88675,9.6,6.4,2.8,Gujarat,2 months,4.6
+898,882041,40364,1436,5601,280,Facebook,15 to 25,Male,2.0,Accessories,58498,4.2,3.5,3.8,Maharashtra,1 year,2.8
+899,255011,354387,32274,9156,3956,Instagram,35 to 45,Female,3.8,Clothing,64353,5.5,3.3,9.1,Punjab,1 year,4.5
+900,765103,416271,35829,761,3327,YouTube,35 to 45,Female,9.2,Accessories,108381,5.5,6.5,3.2,Punjab,2 years,5.1
+901,249982,433137,13594,9192,1362,YouTube,15 to 25,Others,3.7,Accessories,61306,1.5,7.8,8.8,Maharashtra,1 year,4.4
+902,803509,27814,22616,669,4674,Instagram,15 to 25,Male,7.1,Accessories,63733,9.6,3.0,5.0,Rajasthan,1 year,6.6
+903,83348,265447,31576,2134,4184,Instagram,15 to 25,Male,3.0,Cosmetics,96644,7.5,9.8,5.0,Maharashtra,6 months,5.3
+904,982011,127405,12982,9468,1895,Facebook,35 to 45,Male,1.9,Cosmetics,137260,5.0,3.2,4.3,Punjab,3 months,3.1
+905,355203,39857,46260,3196,3188,YouTube,15 to 25,Others,6.0,Accessories,100822,1.5,8.7,4.8,Maharashtra,3 months,6.5
+906,119746,331167,12782,2777,4807,YouTube,35 to 45,Female,3.8,Accessories,120839,6.7,4.4,8.2,Punjab,1 year,4.7
+907,528966,177012,15448,9878,2719,Instagram,35 to 45,Others,8.9,Cosmetics,109127,3.7,2.0,9.0,Sikkim,2 years,4.9
+908,161280,476968,28386,4177,3721,YouTube,25 to 35,Female,3.2,Cosmetics,115991,6.0,7.5,6.5,Gujarat,1 year,4.8
+909,103889,445879,37160,8743,1612,YouTube,25 to 35,Others,2.1,Cosmetics,51304,2.2,1.4,7.6,Rajasthan,2 years,2.8
+910,542090,76443,5481,3520,4513,Facebook,25 to 35,Male,4.0,Cosmetics,114951,4.6,9.2,1.9,Kerala,1 month,4.1
+911,334943,93742,26757,4079,3708,YouTube,25 to 35,Male,1.1,Accessories,118385,6.4,5.9,8.3,Tamil Nadu,2 years,4.9
+912,655574,81183,23366,8911,2133,Facebook,5 to 15,Others,2.9,Clothing,102786,4.0,6.4,6.9,Tamil Nadu,1 month,4.6
+913,524406,420457,49064,7036,2231,Instagram,35 to 45,Male,4.9,Accessories,122337,6.1,4.8,1.6,Tamil Nadu,2 years,3.7
+914,714806,234074,10294,5060,2705,Instagram,15 to 25,Others,6.0,Clothing,134001,6.7,9.5,9.6,Tamil Nadu,6 months,6.4
+915,98930,349147,44659,9877,2830,YouTube,15 to 25,Female,2.1,Cosmetics,98931,7.5,5.7,9.3,Punjab,6 months,5.2
+916,636844,450159,35068,2386,2264,Facebook,35 to 45,Female,4.1,Accessories,60608,8.9,8.1,7.2,Punjab,3 months,5.8
+917,430381,341317,21040,3825,325,Facebook,5 to 15,Male,7.5,Accessories,80426,4.2,9.3,6.0,Kerala,1 month,5.5
+918,250039,383530,42333,1337,4479,YouTube,15 to 25,Others,3.2,Accessories,109585,1.5,8.6,7.1,Rajasthan,2 years,4.3
+919,50075,301945,16376,1830,609,Instagram,15 to 25,Others,7.3,Clothing,131200,4.8,9.0,5.9,Maharashtra,3 months,5.5
+920,480210,134064,16907,7375,1773,Instagram,35 to 45,Male,8.9,Accessories,84783,4.8,3.2,6.8,Maharashtra,1 year,5.0
+921,968167,212944,4495,5113,4447,Instagram,5 to 15,Female,3.2,Accessories,86303,8.5,9.8,3.2,Kerala,1 year,5.0
+922,260354,209719,46530,4236,2095,Instagram,35 to 45,Others,8.7,Accessories,118195,7.1,5.2,9.0,Punjab,1 month,6.4
+923,500531,59278,32316,5169,4311,Facebook,35 to 45,Male,3.5,Accessories,58906,4.8,9.0,9.2,Gujarat,1 year,6.4
+924,227530,296041,46885,6826,1811,Instagram,25 to 35,Male,7.7,Clothing,61570,5.3,6.8,2.9,Maharashtra,3 months,4.9
+925,410308,416696,28324,6623,3738,Instagram,5 to 15,Others,8.6,Accessories,139456,5.2,6.4,3.3,Rajasthan,1 month,4.8
+926,268946,437018,7458,1425,3790,YouTube,5 to 15,Female,8.7,Accessories,62741,5.6,9.8,8.0,Sikkim,2 months,6.5
+927,312093,196105,44838,3261,3132,Instagram,15 to 25,Others,7.6,Cosmetics,96834,2.4,2.5,4.3,Kerala,1 year,3.8
+928,960933,368711,41285,9077,1164,Facebook,5 to 15,Female,2.2,Clothing,129275,9.1,1.2,8.8,Kerala,3 months,4.5
+929,294396,168666,9742,3270,4582,Facebook,5 to 15,Others,3.5,Cosmetics,100795,5.2,1.2,6.3,Sikkim,3 months,3.4
+930,985982,225381,1926,3540,834,Facebook,35 to 45,Female,9.5,Accessories,54999,1.3,4.8,6.5,Rajasthan,6 months,4.4
+931,913305,70172,23787,4886,4707,Facebook,15 to 25,Others,7.6,Cosmetics,61773,9.6,2.3,9.7,Sikkim,3 months,6.5
+932,392888,12340,3710,6977,403,YouTube,35 to 45,Female,3.2,Accessories,98179,7.6,8.4,3.1,Punjab,1 year,5.1
+933,116766,201672,42400,8123,257,Instagram,15 to 25,Male,5.7,Cosmetics,51610,8.7,1.6,1.6,Punjab,2 months,3.9
+934,64980,471479,28295,331,3159,Facebook,15 to 25,Female,5.8,Accessories,120056,1.9,1.2,2.4,Kerala,2 months,2.4
+935,797604,336373,44132,6460,4349,Facebook,35 to 45,Others,6.7,Cosmetics,53821,1.7,9.4,6.1,Tamil Nadu,6 months,5.0
+936,952023,121559,10651,4695,2883,Instagram,15 to 25,Male,8.5,Clothing,64716,9.9,6.3,8.6,Rajasthan,3 months,6.8
+937,186598,198116,45484,6875,1024,Facebook,5 to 15,Male,1.2,Clothing,60098,5.1,5.6,3.1,Kerala,1 year,3.5
+938,899268,150567,41076,9926,332,Facebook,15 to 25,Male,3.7,Clothing,125546,9.8,6.9,4.2,Sikkim,2 years,5.5
+939,810674,338644,19283,1203,4881,Instagram,25 to 35,Male,4.6,Clothing,68341,3.4,5.2,1.5,Kerala,1 month,3.1
+940,389510,360363,28120,2654,2898,YouTube,15 to 25,Male,4.6,Clothing,66454,8.1,6.1,8.3,Tamil Nadu,1 year,5.6
+941,726039,220333,38960,4109,1805,Instagram,15 to 25,Others,9.1,Clothing,96643,3.5,1.8,9.7,Rajasthan,3 months,5.2
+942,905041,236472,13126,1604,3851,Instagram,25 to 35,Others,6.7,Cosmetics,126801,3.0,6.7,8.0,Tamil Nadu,2 months,5.0
+943,607041,419666,49354,4201,1193,Instagram,25 to 35,Female,5.6,Cosmetics,80675,9.7,1.1,7.5,Sikkim,1 year,5.0
+944,90017,255503,29991,8902,3557,YouTube,5 to 15,Female,3.5,Clothing,146981,5.9,2.3,3.2,Punjab,2 years,3.2
+945,671566,267773,46998,6886,3407,YouTube,35 to 45,Female,2.7,Cosmetics,120414,3.2,1.1,4.1,Sikkim,2 months,2.6
+946,108031,199952,40066,3544,546,Instagram,5 to 15,Others,3.5,Cosmetics,57270,7.4,6.1,4.0,Tamil Nadu,1 month,4.6
+947,687485,258608,3228,2611,773,Facebook,5 to 15,Male,8.9,Clothing,113543,4.7,7.5,6.2,Maharashtra,6 months,5.5
+948,454929,41386,4341,1050,272,YouTube,25 to 35,Female,7.3,Accessories,110873,7.6,1.7,8.1,Punjab,6 months,5.1
+949,838390,147226,28047,3154,4391,Instagram,5 to 15,Female,4.1,Accessories,57289,6.7,4.2,9.7,Punjab,6 months,5.3
+950,371098,46638,27383,6475,1346,Facebook,35 to 45,Female,6.5,Clothing,80801,8.7,4.3,8.6,Sikkim,1 year,6.8
+951,969966,20485,5359,2062,981,YouTube,5 to 15,Female,9.5,Cosmetics,140692,1.1,9.1,6.2,Gujarat,3 months,5.7
+952,881626,104494,5590,3437,3931,YouTube,35 to 45,Female,7.6,Cosmetics,133034,2.5,5.5,2.3,Tamil Nadu,2 months,3.7
+953,457585,254230,41196,7298,3088,Facebook,5 to 15,Male,3.3,Clothing,129955,3.9,7.5,2.7,Punjab,1 month,3.8
+954,289385,466667,10661,4470,3977,YouTube,5 to 15,Male,6.9,Cosmetics,66009,7.1,7.8,3.3,Kerala,2 years,5.1
+955,321087,223011,18318,7901,3202,YouTube,35 to 45,Others,7.6,Cosmetics,121716,2.1,1.8,6.6,Sikkim,2 years,3.8
+956,140988,344107,47557,6667,4701,YouTube,15 to 25,Male,3.1,Clothing,84517,1.0,5.5,3.4,Tamil Nadu,6 months,2.9
+957,733592,419064,30120,9927,3014,Facebook,35 to 45,Others,8.6,Cosmetics,89948,2.6,6.4,5.2,Rajasthan,3 months,4.7
+958,868276,294307,18804,8895,1212,YouTube,15 to 25,Others,4.9,Cosmetics,82014,9.1,3.5,3.6,Punjab,1 month,4.3
+959,338677,359379,28894,4866,4807,Instagram,15 to 25,Male,7.8,Cosmetics,121372,8.0,1.1,5.7,Punjab,3 months,4.7
+960,421305,251173,47752,596,124,Instagram,15 to 25,Female,6.0,Accessories,110370,6.1,3.7,7.2,Kerala,1 month,5.0
+961,133118,387262,8227,2796,1872,Instagram,35 to 45,Male,3.0,Cosmetics,67130,1.8,7.4,7.4,Gujarat,3 months,4.0
+962,67100,414545,37831,1500,3725,YouTube,5 to 15,Male,5.2,Clothing,96601,5.9,6.5,2.4,Rajasthan,1 month,4.2
+963,261462,270158,47650,5118,1606,Facebook,15 to 25,Others,7.8,Accessories,105367,7.1,6.8,4.4,Maharashtra,2 years,5.6
+964,166593,256552,9205,2032,3000,YouTube,35 to 45,Female,2.1,Cosmetics,119814,8.2,5.3,3.6,Punjab,2 months,3.9
+965,438551,216328,20530,3790,872,YouTube,15 to 25,Male,3.6,Cosmetics,84492,4.7,2.2,2.7,Punjab,2 years,2.8
+966,132670,117683,26452,6035,3182,Facebook,5 to 15,Male,9.2,Clothing,83891,9.3,3.0,6.4,Sikkim,6 months,6.0
+967,296744,190205,29512,6133,2258,YouTube,15 to 25,Others,1.4,Clothing,68862,5.2,5.9,7.5,Sikkim,3 months,4.3
+968,188479,202821,6155,669,1397,Facebook,15 to 25,Others,9.8,Clothing,63172,9.5,8.8,9.7,Rajasthan,2 years,7.6
+969,209271,229536,45611,789,4587,Instagram,15 to 25,Female,5.3,Accessories,69434,7.4,9.2,4.5,Rajasthan,2 years,5.7
+970,630225,331991,28834,1207,3082,Facebook,25 to 35,Male,8.1,Cosmetics,148637,3.4,9.3,3.2,Gujarat,3 months,5.0
+971,91969,193980,43762,4962,1368,Instagram,25 to 35,Female,5.4,Cosmetics,78164,9.8,2.4,4.0,Sikkim,1 month,4.8
+972,601494,295933,43660,5563,1709,Facebook,25 to 35,Others,3.5,Accessories,120684,7.4,1.1,8.1,Tamil Nadu,3 months,4.3
+973,187185,414248,32617,7497,1020,Facebook,25 to 35,Others,5.1,Clothing,64329,1.8,4.9,1.3,Punjab,2 months,2.8
+974,584000,337567,16570,1018,884,Facebook,15 to 25,Male,2.6,Cosmetics,51200,3.5,8.3,5.4,Sikkim,6 months,4.1
+975,175236,90494,6127,9055,2591,Instagram,5 to 15,Female,8.1,Cosmetics,71177,7.1,1.1,2.6,Rajasthan,2 years,3.9
+976,877171,452361,43924,7630,2562,Instagram,25 to 35,Male,2.8,Cosmetics,143632,8.6,7.8,3.2,Rajasthan,6 months,4.7
+977,752301,374318,39556,5469,4217,Facebook,25 to 35,Others,4.0,Clothing,116000,8.4,2.0,6.3,Kerala,2 years,4.4
+978,489226,277502,2711,8305,1214,Instagram,35 to 45,Others,2.9,Clothing,96901,3.6,8.0,2.7,Punjab,6 months,3.5
+979,596968,308444,13311,2749,773,YouTube,35 to 45,Male,7.7,Accessories,55742,4.2,4.6,6.9,Punjab,1 year,4.8
+980,877745,45371,5886,2079,4867,YouTube,25 to 35,Others,1.5,Clothing,127684,4.6,3.6,7.7,Punjab,1 year,3.7
+981,719033,214985,43921,7484,3299,Facebook,35 to 45,Female,6.8,Accessories,110763,8.9,4.3,9.7,Maharashtra,3 months,6.3
+982,706845,297092,11507,9589,1304,Instagram,5 to 15,Others,1.0,Accessories,53839,7.0,9.8,8.9,Rajasthan,6 months,5.4
+983,816779,187264,19251,2662,1004,Instagram,15 to 25,Others,7.7,Accessories,140660,2.4,4.7,6.6,Maharashtra,6 months,4.5
+984,889970,203990,44749,6051,4039,YouTube,5 to 15,Female,7.4,Cosmetics,118991,7.0,5.0,9.5,Gujarat,1 year,6.2
+985,570358,496726,11527,881,2817,Instagram,25 to 35,Male,5.5,Clothing,110622,3.7,8.8,4.3,Tamil Nadu,2 years,4.5
+986,922369,183929,11030,9559,2419,Facebook,15 to 25,Male,1.3,Clothing,78140,6.7,1.3,8.2,Kerala,6 months,3.6
+987,844704,157969,11784,8063,1487,Instagram,35 to 45,Male,6.4,Accessories,112476,2.0,8.5,3.9,Kerala,6 months,4.3
+988,735399,42987,15702,631,1934,YouTube,5 to 15,Male,1.4,Accessories,109417,1.2,8.7,6.0,Gujarat,2 years,4.2
+989,822556,73289,15523,6368,1579,Facebook,5 to 15,Others,1.3,Cosmetics,84230,1.3,10.0,10.0,Punjab,1 month,4.9
+990,130962,456587,30416,8489,3086,YouTube,15 to 25,Male,2.2,Accessories,58609,4.5,8.4,4.5,Sikkim,6 months,4.1
+991,502686,87561,38181,1490,1162,Facebook,25 to 35,Female,7.9,Clothing,142654,6.8,2.0,5.3,Maharashtra,6 months,5.3
+992,418199,276680,13424,5717,3093,Facebook,25 to 35,Others,4.3,Clothing,142566,3.2,1.5,1.9,Rajasthan,2 months,2.3
+993,543648,384093,11168,3154,2838,Instagram,35 to 45,Male,9.5,Cosmetics,83344,8.7,5.3,4.5,Punjab,6 months,5.7
+994,355654,298122,17579,7518,2154,Instagram,5 to 15,Female,8.6,Clothing,128718,9.5,5.9,9.9,Tamil Nadu,1 month,6.9
+995,473731,313780,39281,3955,3882,Facebook,5 to 15,Female,1.6,Accessories,97194,4.6,9.0,3.7,Kerala,2 years,4.0
+996,884309,472556,38543,8716,1706,YouTube,5 to 15,Others,3.9,Accessories,54453,7.0,8.0,2.9,Rajasthan,3 months,4.5
+997,683583,192189,9438,6518,3969,Facebook,25 to 35,Others,2.0,Cosmetics,147431,3.3,4.6,7.8,Kerala,1 year,3.6
+998,676993,359854,26225,4813,3879,Instagram,15 to 25,Male,5.3,Cosmetics,102083,4.9,7.4,9.3,Maharashtra,6 months,5.5
+999,859672,232580,5141,3388,4150,Instagram,25 to 35,Female,3.4,Accessories,144959,2.6,6.3,2.6,Tamil Nadu,3 months,3.0
+1000,453163,100388,12426,2494,2977,Instagram,5 to 15,Others,9.5,Cosmetics,127221,8.1,6.0,4.2,Sikkim,2 months,5.8
